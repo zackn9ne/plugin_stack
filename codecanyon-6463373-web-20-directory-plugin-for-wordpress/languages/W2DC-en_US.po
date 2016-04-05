@@ -1,0 +1,6594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: w2dc v1.4.1\n"
+"POT-Creation-Date: 2015-10-27 07:27+0600\n"
+"PO-Revision-Date: 2015-10-27 07:27+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:68
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:70
+#: addons/w2dc_fsubmit/classes/submit_controller.php:50
+#: addons/w2dc_fsubmit/classes/submit_controller.php:89
+#: addons/w2dc_fsubmit/classes/submit_controller.php:91
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:11
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:61
+#: classes/listings/listings_manager.php:666
+msgid "Auto Draft"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:69
+#: addons/w2dc_fsubmit/classes/submit_controller.php:90
+#: classes/listings/listings_manager.php:667
+msgid "Listing title field required"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:135
+#: addons/w2dc_fsubmit/classes/submit_controller.php:212
+msgid "Listing was saved successfully! Now it's awaiting moderators approval."
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:138
+#: addons/w2dc_fsubmit/classes/submit_controller.php:215
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:562
+msgid "Listing was saved successfully as draft! Contact site manager, please."
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:141
+msgid "Listing was saved successfully!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:177
+#: classes/listings/listings_manager.php:337
+msgid "Listing was raised up successfully!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:193
+#: classes/listings/listings_manager.php:367
+msgid "Listing was renewed successfully!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:210
+msgid "Listing was deleted successfully!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:214
+msgid "An error has occurred and listing was not deleted"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:226
+#: classes/listings/listings_manager.php:444
+#: classes/listings/listings_manager.php:485
+msgid "New level ID"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:230
+#: classes/listings/listings_manager.php:448
+msgid "Listing level was changed successfully!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:233
+#: classes/listings/listings_manager.php:451
+msgid "New level must be selected!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:280
+msgid "Your profile was successfully updated!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:319
+msgid "Claim notification"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:330
+msgid "Listing was claimed successfully!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:334
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:367
+#: classes/listings/listings_manager.php:585
+msgid "Listing claim was approved successfully!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:358
+#: classes/listings/listings_manager.php:576
+msgid "Approval of claim notification"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:371
+#: classes/listings/listings_manager.php:589
+msgid "Listing claim was declined!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:396
+msgid "Translation was successfully created!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/dashboard_controller.php:399
+msgid "Translation was not created!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/submit_controller.php:77
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:49
+#: templates/frontend/contact_form.tpl.php:12
+msgid "Contact Name"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/submit_controller.php:78
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:52
+#: templates/frontend/contact_form.tpl.php:16
+msgid "Contact Email"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/submit_controller.php:125
+#: classes/shortcodes/directory_controller.php:645
+msgid "Verification code wasn't entered correctly!"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/submit_controller.php:138
+msgid "Please check the box to agree the Terms of Services."
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/submit_controller.php:193
+msgid "Registration notification"
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/submit_controller.php:201
+msgid ""
+"New user was created in the system, login and password were sent to provided "
+"contact email."
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/submit_controller.php:218
+msgid ""
+"Listing was saved successfully! Now you may manage it in your dashboard."
+msgstr ""
+
+#: addons/w2dc_fsubmit/classes/submit_controller.php:252
+msgid "Notification about new listing creation (do not reply)"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:2
+#, php-format
+msgid "Claim listing \"%s\""
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:7
+msgid ""
+"Notification about claim for this listing will be sent to the current "
+"listing owner."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:8
+msgid ""
+"After approval you will become owner of this listing, you'll receive email "
+"notification."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:11
+msgid "After approval listing status become expired."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:11
+msgid " The price for renewal"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:20
+msgid "additional information to moderator"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:23
+msgid "Send Claim"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:25
+#: addons/w2dc_fsubmit/templates/claim_process.tpl.php:16
+#: addons/w2dc_fsubmit/templates/delete.tpl.php:11
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:104
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:84
+#: addons/w2dc_fsubmit/templates/raise_up.tpl.php:13
+#: addons/w2dc_fsubmit/templates/renew.tpl.php:12
+#: addons/w2dc_fsubmit/templates/upgrade.tpl.php:22
+#: templates/listings/change_date.tpl.php:137
+#: templates/listings/claim_process.tpl.php:19
+#: templates/listings/raise_up.tpl.php:16 templates/listings/renew.tpl.php:15
+#: templates/listings/upgrade.tpl.php:23
+#: templates/listings/upgrade_bulk.tpl.php:30
+#: vafpress-framework/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim.tpl.php:28
+#: addons/w2dc_fsubmit/templates/claim_process.tpl.php:18
+#: addons/w2dc_fsubmit/templates/raise_up.tpl.php:15
+#: addons/w2dc_fsubmit/templates/renew.tpl.php:14
+#: addons/w2dc_fsubmit/templates/upgrade.tpl.php:24
+#: templates/listings/change_date.tpl.php:139
+#: templates/listings/claim_process.tpl.php:21
+#: templates/listings/raise_up.tpl.php:18 templates/listings/renew.tpl.php:17
+#: templates/listings/upgrade.tpl.php:25
+#: templates/listings/upgrade_bulk.tpl.php:32
+msgid "Go back "
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim_process.tpl.php:2
+#: templates/listings/claim_process.tpl.php:5
+#, php-format
+msgid "Approve or decline claim of listing \"%s\""
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim_process.tpl.php:6
+#: templates/listings/claim_process.tpl.php:9
+#, php-format
+msgid "User \"%s\" had claimed this listing."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim_process.tpl.php:8
+#: templates/listings/claim_process.tpl.php:11
+msgid "Message from claimer:"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim_process.tpl.php:10
+#: templates/listings/claim_process.tpl.php:13
+msgid "In case of approval new owner will receive email notification."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim_process.tpl.php:12
+#: templates/listings/claim_process.tpl.php:15
+msgid "Approve"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/claim_process.tpl.php:14
+#: templates/listings/claim_process.tpl.php:17
+msgid "Decline"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/dashboard.tpl.php:15
+#: classes/settings_manager.php:193 classes/widgets.php:267
+#: classes/widgets.php:327 templates/settings_common.tpl.php:13
+msgid "Listings"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/dashboard.tpl.php:17
+msgid "My profile"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/delete.tpl.php:2
+#, php-format
+msgid "Delete listing \"%s\""
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/delete.tpl.php:5
+msgid ""
+"Listing will be completely deleted with all metadata, comments and "
+"attachments."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/delete.tpl.php:9
+msgid "Delete listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:4
+#, php-format
+msgid "Edit listing \"%s\""
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:9
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:59
+msgid "Listing title"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:37
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:87
+#: classes/listings/listings_manager.php:69
+msgid "Listing expiration date"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:46
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:96
+#: classes/listings/listings_manager.php:81
+msgid "Listing claim"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:66
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:116
+msgid "select existing or type new"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:83
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:133
+msgid "Listing Media"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:92
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:142
+#: classes/locations/locations_manager.php:41 w2dc.php:638
+msgid "Listing locations"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/edit_listing.tpl.php:102
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:94
+#: templates/content_fields/add_edit_content_field.tpl.php:359
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:61
+#: templates/content_fields/content_fields_table.tpl.php:36
+#: templates/content_fields/fields/datetime_configuration.tpl.php:28
+#: templates/content_fields/fields/hours_configuration.tpl.php:39
+#: templates/content_fields/fields/number_configuration.tpl.php:85
+#: templates/content_fields/fields/price_configuration.tpl.php:63
+#: templates/content_fields/fields/select_configuration.tpl.php:59
+#: templates/content_fields/fields/string_configuration.tpl.php:39
+#: templates/content_fields/fields/textarea_configuration.tpl.php:51
+#: templates/content_fields/fields/website_configuration.tpl.php:80
+#: templates/levels/add_edit_level.tpl.php:343
+#: templates/levels/upgrade_levels_table.tpl.php:60
+#: templates/listings/change_date.tpl.php:135
+#: templates/locations/add_edit_locations_level.tpl.php:52
+#: templates/search_fields/fields/number_price_configuration.tpl.php:100
+#: templates/search_fields/fields/select_checkbox_radio_configuration.tpl.php:27
+msgid "Save changes"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:8
+#: classes/levels/levels_manager.php:184 classes/levels/levels_manager.php:285
+msgid "Sticky"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:18
+#: classes/levels/levels_manager.php:185 classes/levels/levels_manager.php:286
+msgid "Featured"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:31
+msgid "1 category"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:33
+#, php-format
+msgid "Up to <strong>%d</strong> categories"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:35
+msgid "No categories"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:36
+msgid "Unlimited categories"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:43
+msgid "1 location"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:45
+#, php-format
+msgid "Up to <strong>%d</strong> locations"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:47
+msgid "No locations"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:52
+#: classes/levels/levels_manager.php:187 classes/levels/levels_manager.php:289
+msgid "Google map"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:64
+msgid "1 image"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:66
+#, php-format
+msgid "Up to <strong>%d</strong> images"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:68
+msgid "No images"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:75
+msgid "1 video"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:77
+#, php-format
+msgid "Up to <strong>%d</strong> videos"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/level_details.tpl.php:79
+msgid "No videos"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:4
+#: classes/content_fields/content_fields_manager.php:277
+#: classes/levels/levels_manager.php:181
+msgid "ID"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:5 functions_ui.php:183
+#: functions_ui.php:227
+msgid "Title"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:18
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:205
+#: classes/listings/listings_manager.php:130
+msgid "Level"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:19
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:71
+#: classes/listings/listings_manager.php:132
+msgid "Status"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:20
+#: classes/listings/listings_manager.php:131
+#: classes/listings/listings_manager.php:412
+msgid "Expiration date"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:36
+msgid "Pending"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:37
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:277
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:299
+msgid "Draft"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:38
+#: classes/listings/listings_manager.php:190
+msgid "here"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:53
+#, php-format
+msgid "Edit the %s translation"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:54
+msgid "edit translation"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:57
+#, php-format
+msgid "Add translation to %s"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:58
+msgid "add translation"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:68
+#: addons/w2dc_fsubmit/templates/upgrade.tpl.php:20
+#: classes/listings/listings_manager.php:146
+#: classes/listings/listings_manager.php:515
+#: classes/listings/listings_manager.php:516
+#: templates/listings/upgrade.tpl.php:21
+#: templates/listings/upgrade_bulk.tpl.php:28
+msgid "Change level"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:76
+#: classes/listings/listings_manager.php:175
+#: templates/listings/info_metabox.tpl.php:24
+msgid "active"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:78
+#: classes/listings/listings_manager.php:177
+#: templates/listings/info_metabox.tpl.php:26
+msgid "expired"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:80
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:74
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:27
+#: addons/w2dc_payments/w2dc_payments.php:124
+#: classes/listings/listings_manager.php:179
+msgid "unpaid"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:82
+#: classes/listings/listings_manager.php:181
+#: templates/listings/info_metabox.tpl.php:31
+msgid "stopped"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:86
+#: classes/listings/listings_manager.php:158
+#: templates/levels/add_edit_level.tpl.php:138
+#: templates/listings/info_metabox.tpl.php:53
+msgid "Eternal active period"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:90
+msgid "edit listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:91
+msgid "delete listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:94
+#: classes/listings/listings_manager.php:204
+#: templates/listings/info_metabox.tpl.php:43
+msgid "raise up listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:99
+#: classes/listings/listings_manager.php:115
+#: classes/listings/listings_manager.php:166
+#: templates/listings/info_metabox.tpl.php:27
+msgid "renew listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/listings.tpl.php:104
+msgid "view listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/login_form.tpl.php:6
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:5
+#, php-format
+msgid "Create new listing in level \"%s\""
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/login_form.tpl.php:16
+#: addons/w2dc_fsubmit/templates/login_form.tpl.php:24
+#: addons/w2dc_fsubmit/templates/login_form.tpl.php:31
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:15
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:23
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:30
+#: addons/w2dc_fsubmit/templates/submitlisting_step_level.tpl.php:9
+#: addons/w2dc_fsubmit/templates/submitlisting_step_level.tpl.php:17
+#: addons/w2dc_fsubmit/templates/submitlisting_step_level.tpl.php:24
+#: addons/w2dc_payments/w2dc_payments.php:646
+msgid "Step"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/login_form.tpl.php:17
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:16
+#: addons/w2dc_fsubmit/templates/submitlisting_step_level.tpl.php:10
+msgid "Choose level"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/login_form.tpl.php:25
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:24
+#: addons/w2dc_fsubmit/templates/submitlisting_step_level.tpl.php:18
+msgid "Login"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/login_form.tpl.php:32
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:31
+#: addons/w2dc_fsubmit/templates/submitlisting_step_level.tpl.php:25
+msgid "Create listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:44
+#: addons/w2dc_payments/w2dc_payments.php:565
+#: addons/w2dc_payments/w2dc_payments.php:877
+msgid "FREE"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:59
+msgid "listings"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:68
+#: classes/levels/levels_manager.php:183 classes/levels/levels_manager.php:284
+#: templates/levels/add_edit_level.tpl.php:67
+msgid "Active period"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:78
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:80
+msgid "Select"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:85
+msgid "Renew"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:87
+msgid "Your Level"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:107
+msgid "&larr; Return to Your Account"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/pmpro/levels.tpl.php:109
+msgid "&larr; Return to Home"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:9 functions_ui.php:638
+msgid "Username"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:10
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:13
+msgid "First Name"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:17
+msgid "Last Name"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:21
+msgid "Nickname"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:21
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:56
+msgid "(required)"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:25
+msgid "Display to Public as"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:56
+msgid "E-mail"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:60
+msgid "Billing information"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:62
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:578
+msgid "Full name"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:66
+msgid "Full Address"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:71
+msgid "New Password"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:73
+msgid "Generate Password"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:79
+msgid "Hide password"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:81
+msgid "Hide"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/profile.tpl.php:83
+msgid "Cancel password change"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/raise_up.tpl.php:2
+#: templates/listings/raise_up.tpl.php:5
+#, php-format
+msgid "Raise up listing \"%s\""
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/raise_up.tpl.php:5
+#: templates/listings/raise_up.tpl.php:8
+msgid ""
+"Listing will be raised up to the top of all lists, those ordered by date."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/raise_up.tpl.php:6
+#: templates/listings/raise_up.tpl.php:9
+msgid ""
+"Note, that listing will not stick on top, so new listings and other "
+"listings, those were raised up later, will place higher."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/raise_up.tpl.php:11
+#: templates/listings/raise_up.tpl.php:14
+msgid "Raise up"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/renew.tpl.php:2
+#, php-format
+msgid "Renew listing \"%s\""
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/renew.tpl.php:5
+#: templates/listings/renew.tpl.php:8
+msgid ""
+"Listing will be renewed and raised up to the top of all lists, those ordered "
+"by date."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/renew.tpl.php:10
+#: classes/listings/listings_manager.php:352
+#: classes/listings/listings_manager.php:353 templates/listings/renew.tpl.php:5
+#: templates/listings/renew.tpl.php:13
+msgid "Renew listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:47
+msgid "Contact info"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:160
+#, php-format
+msgid "I agree to the <a href=\"%s\" target=\"_blank\">Terms of Services</a>"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/submitlisting_step_create.tpl.php:165
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:511
+msgid "Submit new listing"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/submitlisting_step_level.tpl.php:63
+msgid "Submit"
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/upgrade.tpl.php:2
+#: templates/listings/upgrade.tpl.php:5
+#, php-format
+msgid "Change level of listing \"%s\""
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/upgrade.tpl.php:5
+#: templates/listings/upgrade.tpl.php:8
+msgid ""
+"The level of listing will be changed. You may upgrade or downgrade the "
+"level. If new level has an option of limited active period - expiration date "
+"of listing will be reassigned automatically."
+msgstr ""
+
+#: addons/w2dc_fsubmit/templates/upgrade.tpl.php:9
+#: templates/listings/upgrade.tpl.php:12
+#: templates/listings/upgrade_bulk.tpl.php:21
+msgid "Choose new level"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:93
+msgid "Directory listings available"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:140
+msgid "Directory Settings"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:144
+#: classes/levels/levels_manager.php:10 classes/levels/levels_manager.php:11
+#: templates/admin_index.tpl.php:31 templates/levels/levels_table.tpl.php:27
+#: vc.php:394 vc.php:612 vc.php:686 vc.php:894
+msgid "Listings levels"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:158
+msgid " or "
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:159
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:769
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:772
+msgid "unlimited"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:166
+msgid ""
+"Enter number of allowed directory listings for this membership level or set "
+"unlimited."
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:179
+msgid "Listings number"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:180
+msgid "Listings unlimited"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:191
+#, php-format
+msgid "Error updating membership level: %s"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:200
+msgid "Available directory listings"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:232
+msgid "- Select page -"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:238
+msgid "Frontend submission and dashboard"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:243
+msgid "Select frontend submission login mode"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:247
+msgid "login required"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:251
+msgid "necessary to fill in contact form"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:255
+msgid "not necessary to fill in contact form"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:259
+msgid "do not even show contact form"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:269
+msgid "Post status after frontend submit"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:273
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:295
+msgid "Pending Review"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:281
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:303
+msgid "Published"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:291
+msgid "Post status after listing was modified"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:311
+msgid "Enable submit listing button"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:317
+msgid ""
+"Hide top admin bar at the frontend for regular users and do not allow them "
+"to see dashboard at all"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:323
+msgid "Allow users to manage own profile at the frontend dashboard"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:329
+msgid "Enable listings tags input at the frontend"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:335
+msgid "Require Terms of Services on submission page?"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:336
+msgid ""
+"If yes, create a WordPress page containing your TOS agreement and assign it "
+"using the dropdown above."
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:343
+msgid "Use custom login page for listings submission process"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:344
+msgid ""
+"When login required before submission user have to login using default login "
+"form. You may use any 3rd party plugin to make custom login page and assign "
+"it with submission process using the dropdown above."
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:351
+msgid "Use custom login page for login into dashboard"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:352
+msgid ""
+"You may use any 3rd party plugin to make custom login page and assign it "
+"with login into dashboard using the dropdown above."
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:360
+msgid "Claim functionality"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:365
+msgid "Enable claim functionality"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:371
+msgid "Approval of claim required"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:372
+msgid ""
+"In other case claim will be processed immediately without any notifications"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:378
+msgid "What will be with listing status after successful approval?"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:379
+msgid "When set to expired - renewal may be payment option"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:383
+msgid "just approval"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:387
+msgid "expired status"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:397
+msgid "Hide contact form on claimable listings"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:403
+msgid "Hide claim metabox at the frontend dashboard"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:415
+msgid "Enable frontend translations management"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:423
+msgid "Registration of new user notification"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:430
+msgid "Notification to admin about new listing creation"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:437
+msgid "Notification of claim to current listing owner"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:443
+msgid "Notification of successful approval of claim"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:477
+msgid ""
+"<b>Web 2.0 Directory Frontend submit plugin</b>: sorry, but there isn't any "
+"page with [webdirectory-submit] shortcode. This is impossible to add new "
+"listings from frontend."
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:518
+msgid "Is this your ad?"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:525
+msgid "Log out"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:559
+msgid "Listing awaiting moderators approval."
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:574
+msgid "Directory billing information"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:584
+msgid "Full address"
+msgstr ""
+
+#: addons/w2dc_fsubmit/w2dc_fsubmit.php:774
+#: addons/w2dc_payments/classes/items/item_listing.php:33
+#: addons/w2dc_payments/classes/items/item_listing.php:40
+#: addons/w2dc_payments/classes/items/item_listing.php:47
+#: addons/w2dc_payments/classes/items/item_listing_upgrade.php:17
+#: addons/w2dc_payments/classes/items/item_listing_upgrade.php:32
+msgid "N/A"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/bank_transfer.php:13
+#: addons/w2dc_payments/classes/invoice.php:149
+msgid "Bank transfer"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/bank_transfer.php:17
+msgid ""
+"Print invoice and transfer the payment (bank transfer information included)"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/bank_transfer.php:26
+msgid ""
+"You chose bank transfer payment gateway, now print invoice and transfer the "
+"payment"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal.php:35
+#: addons/w2dc_payments/classes/invoice.php:143
+msgid "PayPal"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal.php:39
+msgid ""
+"One time payment by PayPal. After successful transaction listing will become "
+"active and raised up."
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal.php:160
+#: addons/w2dc_payments/classes/gateways/stripe.php:105
+#, php-format
+msgid "Payment successfully completed. Transaction data: %s"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal.php:162
+#: addons/w2dc_payments/classes/gateways/paypal_subscription.php:212
+#, php-format
+msgid "Transaction failed, Error: %s"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal_subscription.php:44
+#: addons/w2dc_payments/classes/invoice.php:146
+msgid "PayPal subscription"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal_subscription.php:48
+msgid "Regular automatic payments from your PayPal account."
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal_subscription.php:85
+msgid ""
+"This item is not allowed to be paid as subscription or it is not possible to "
+"pay for recurring cycle of this item using selected payment gateway."
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal_subscription.php:210
+#, php-format
+msgid "Recurring payment was successfully completed. Transaction data:  %s"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/paypal_subscription.php:220
+msgid "Subscription canceled"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/stripe.php:36
+#: addons/w2dc_payments/classes/invoice.php:152
+msgid "Stripe"
+msgstr ""
+
+#: addons/w2dc_payments/classes/gateways/stripe.php:40
+msgid ""
+"One time payment by Stripe. After successful transaction listing will become "
+"active and raised up."
+msgstr ""
+
+#: addons/w2dc_payments/classes/invoice.php:91
+msgid "including"
+msgstr ""
+
+#: addons/w2dc_payments/classes/invoice.php:93
+msgid "excluding"
+msgstr ""
+
+#: addons/w2dc_payments/classes/invoice.php:164
+msgid "Invoice created"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing.php:45
+msgid "Active period - "
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing.php:87
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:29
+#: addons/w2dc_payments/w2dc_payments.php:126
+msgid "pay invoice"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing.php:97
+#, php-format
+msgid "Invoice for activation of listing: %s"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing.php:104
+#: addons/w2dc_payments/classes/items/item_listing.php:127
+msgid ""
+"New invoice was created successfully, listing become active after payment"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing.php:120
+#, php-format
+msgid "Invoice for renewal of listing: %s"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing_raiseup.php:21
+#, php-format
+msgid "Invoice for raise up of listing: %s"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing_raiseup.php:28
+msgid ""
+"New invoice was created successfully, listing will be raised up after payment"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing_upgrade.php:15
+#: addons/w2dc_payments/classes/items/item_listing_upgrade.php:30
+#, php-format
+msgid "From '%s' to '%s' level"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing_upgrade.php:57
+#, php-format
+msgid "Invoice for upgrade of listing: %s"
+msgstr ""
+
+#: addons/w2dc_payments/classes/items/item_listing_upgrade.php:64
+#, php-format
+msgid ""
+"New invoice was created successfully, listing \"%s\" will be upgraded after "
+"payment"
+msgstr ""
+
+#: addons/w2dc_payments/templates/actions_metabox.tpl.php:10
+#: addons/w2dc_payments/templates/invoice_print.tpl.php:40
+#: addons/w2dc_payments/templates/invoice_print.tpl.php:61
+#: addons/w2dc_payments/templates/view_invoice_dashboard.tpl.php:9
+msgid "Print invoice"
+msgstr ""
+
+#: addons/w2dc_payments/templates/actions_metabox.tpl.php:15
+#: addons/w2dc_payments/templates/view_invoice_dashboard.tpl.php:12
+msgid "Reset gateway"
+msgstr ""
+
+#: addons/w2dc_payments/templates/actions_metabox.tpl.php:21
+msgid "Set as paid"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:15
+msgid "Invoice ID"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:22
+#: classes/csv_manager.php:45
+msgid "Author"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:30
+msgid "Bill To"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:37
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:5
+#: addons/w2dc_payments/w2dc_payments.php:100
+msgid "Item"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:44
+msgid "Item options"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:51
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:6
+#: addons/w2dc_payments/w2dc_payments.php:101
+#: addons/w2dc_payments/w2dc_payments.php:548
+#: addons/w2dc_payments/w2dc_payments.php:560
+#: classes/content_fields/content_fields.php:42
+msgid "Price"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:64
+msgid "Total"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:76
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:31
+#: addons/w2dc_payments/w2dc_payments.php:128
+msgid "paid"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:78
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:35
+#: addons/w2dc_payments/w2dc_payments.php:132
+msgid "pending"
+msgstr ""
+
+#: addons/w2dc_payments/templates/info_metabox.tpl.php:84
+msgid "Gateway"
+msgstr ""
+
+#: addons/w2dc_payments/templates/invoice_print.tpl.php:40
+#: addons/w2dc_payments/templates/invoice_print.tpl.php:61
+#: templates/frontend/listing_print.tpl.php:51
+#: templates/frontend/listing_print.tpl.php:122
+msgid "Close window"
+msgstr ""
+
+#: addons/w2dc_payments/templates/invoice_print.tpl.php:44
+#: addons/w2dc_payments/w2dc_payments.php:393
+msgid "Bank transfer information"
+msgstr ""
+
+#: addons/w2dc_payments/templates/invoice_print.tpl.php:51
+#: addons/w2dc_payments/templates/view_invoice_dashboard.tpl.php:17
+#: addons/w2dc_payments/w2dc_payments.php:164
+msgid "Invoice Info"
+msgstr ""
+
+#: addons/w2dc_payments/templates/invoice_print.tpl.php:57
+#: addons/w2dc_payments/templates/view_invoice_dashboard.tpl.php:33
+#: addons/w2dc_payments/w2dc_payments.php:183
+msgid "Invoice Log"
+msgstr ""
+
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:4
+#: addons/w2dc_payments/w2dc_payments.php:104
+msgid "Invoice"
+msgstr ""
+
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:7
+#: addons/w2dc_payments/w2dc_payments.php:102
+msgid "Payment"
+msgstr ""
+
+#: addons/w2dc_payments/templates/invoices_dashboard.tpl.php:8
+msgid "Creation date"
+msgstr ""
+
+#: addons/w2dc_payments/templates/levels_price_in_level.tpl.php:3
+#: addons/w2dc_payments/w2dc_payments.php:535
+msgid "Listings price"
+msgstr ""
+
+#: addons/w2dc_payments/templates/levels_price_in_level.tpl.php:15
+#: addons/w2dc_payments/w2dc_payments.php:536
+msgid "Listings raise up price"
+msgstr ""
+
+#: addons/w2dc_payments/templates/log_metabox.tpl.php:3
+msgid "Logged Date"
+msgstr ""
+
+#: addons/w2dc_payments/templates/log_metabox.tpl.php:4
+msgid "Message"
+msgstr ""
+
+#: addons/w2dc_payments/templates/stripe_button.tpl.php:41
+msgid "Payment by Stripe requires installed OpenSSL extension!"
+msgstr ""
+
+#: addons/w2dc_payments/templates/view_invoice_dashboard.tpl.php:25
+#: addons/w2dc_payments/w2dc_payments.php:204
+msgid "Invoice Payment - choose payment gateway"
+msgstr ""
+
+#: addons/w2dc_payments/templates/view_invoice_dashboard.tpl.php:39
+msgid "View all invoices"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:228
+msgid "Invoice actions"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:244
+msgid "Payments settings"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:249
+msgid "General payments settings"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:254
+msgid "Any services are Free for administrators"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:260
+msgid "Currency"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:262
+msgid "US Dollars ($)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:263
+msgid "Euros (€)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:264
+msgid "Pounds Sterling (£)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:265
+msgid "Australian Dollars ($)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:266
+msgid "Brazilian Real (R$)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:267
+msgid "Canadian Dollars ($)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:268
+msgid "Czech Koruna (Kč)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:269
+msgid "Danish Krone (kr)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:270
+msgid "Hong Kong Dollar ($)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:271
+msgid "Hungarian Forint (Ft)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:272
+msgid "Israeli Shekel (₪)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:273
+msgid "Japanese Yen (¥)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:274
+msgid "Malaysian Ringgits (RM)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:275
+msgid "Mexican Peso ($)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:276
+msgid "New Zealand Dollar ($)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:277
+msgid "Norwegian Krone (kr)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:278
+msgid "Philippine Pesos (P)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:279
+msgid "Polish Zloty (zł)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:280
+msgid "Singapore Dollar ($)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:281
+msgid "Swedish Krona (kr)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:282
+msgid "Swiss Franc (Fr)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:283
+msgid "Taiwan New Dollar ($)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:284
+msgid "Thai Baht (฿)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:285
+msgid "Turkish Lira (₤)"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:292
+msgid "Currency symbol or code"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:298
+msgid "Currency symbol or code position"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:310
+#: classes/content_fields/fields/content_field_number.php:27
+#: classes/content_fields/fields/content_field_price.php:27
+#: templates/content_fields/fields/number_configuration.tpl.php:34
+#: templates/content_fields/fields/price_configuration.tpl.php:38
+msgid "Decimal separator"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:312
+#: addons/w2dc_payments/w2dc_payments.php:329
+#: templates/content_fields/fields/number_configuration.tpl.php:38
+#: templates/content_fields/fields/number_configuration.tpl.php:50
+#: templates/content_fields/fields/price_configuration.tpl.php:42
+#: templates/content_fields/fields/price_configuration.tpl.php:54
+msgid "dot"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:313
+#: addons/w2dc_payments/w2dc_payments.php:330
+#: templates/content_fields/fields/number_configuration.tpl.php:39
+#: templates/content_fields/fields/number_configuration.tpl.php:51
+#: templates/content_fields/fields/price_configuration.tpl.php:43
+#: templates/content_fields/fields/price_configuration.tpl.php:55
+msgid "comma"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:320
+msgid "Hide decimals in levels price table"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:326
+#: classes/content_fields/fields/content_field_number.php:28
+#: classes/content_fields/fields/content_field_price.php:28
+#: templates/content_fields/fields/number_configuration.tpl.php:45
+#: templates/content_fields/fields/price_configuration.tpl.php:49
+msgid "Thousands separator"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:328
+#: templates/content_fields/fields/number_configuration.tpl.php:49
+#: templates/content_fields/fields/price_configuration.tpl.php:53
+msgid "no separator"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:331
+#: templates/content_fields/fields/number_configuration.tpl.php:52
+#: templates/content_fields/fields/price_configuration.tpl.php:56
+msgid "space"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:339
+msgid "Sales tax"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:344
+msgid "Enable taxes"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:350
+msgid "Selling company information"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:356
+msgid "Tax name"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:357
+msgid "abbreviation, e.g. \"VAT\""
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:363
+msgid "Tax rate"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:364
+msgid "In percents"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:370
+msgid "Include or exclude value added taxes"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:371
+msgid ""
+"Do you want prices on the website to be quoted including or excluding value "
+"added taxes?"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:373
+msgid "Include"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:374
+msgid "Exclude"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:382
+msgid "Bank transfer settings"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:387
+msgid "Allow bank transfer"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:400
+msgid "PayPal settings"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:405
+msgid "Business email"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:411
+msgid "Allow single payment"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:417
+msgid "Allow subscriptions"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:418
+msgid "Only for listings with limited active period"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:424
+#: addons/w2dc_payments/w2dc_payments.php:461
+msgid "Test Sandbox mode"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:425
+msgid ""
+"You must have a <a href=\"http://developer.paypal.com/\" target=\"_blank"
+"\">PayPal Sandbox</a> account setup before using this feature"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:432
+msgid "Stripe settings"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:437
+msgid "Test secret key"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:443
+msgid "Test publishable key"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:449
+msgid "Live secret key"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:455
+msgid "Live publishable key"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:462
+msgid ""
+"You can only use <a href=\"http://stripe.com/\" target=\"_blank\">Stripe</a> "
+"in test mode until you activate your account."
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:476
+#: addons/w2dc_payments/w2dc_payments.php:484
+msgid "Directory invoices"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:477
+msgid "Directory invoice"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:478
+msgid "View Invoice"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:479
+msgid "Search invoices"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:480
+msgid "No invoices found"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:481
+msgid "No invoices found in trash"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:597
+msgid "daily"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:599 classes/levels/levels.php:258
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: addons/w2dc_payments/w2dc_payments.php:601
+msgid "monthly"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:603 classes/levels/levels.php:260
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: addons/w2dc_payments/w2dc_payments.php:605
+msgid "annually"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:607 classes/levels/levels.php:262
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: addons/w2dc_payments/w2dc_payments.php:647
+msgid "Pay Invoice"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:713
+#, php-format
+msgid "Payment gateway was selected: %s"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:714
+msgid "Payment gateway was selected!"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:723
+msgid "Payment gateway was reset"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:724
+msgid "Payment gateway was reset!"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:731
+msgid "Invoice was manually set as paid"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:732
+msgid "Invoice was manually set as paid!"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:734
+msgid "An error has occured!"
+msgstr ""
+
+#: addons/w2dc_payments/w2dc_payments.php:795
+msgid "Invoices"
+msgstr ""
+
+#: addons/w2dc_ratings/templates/avg_rating.tpl.php:26
+#, php-format
+msgid "Average rating: %s (%s)"
+msgstr ""
+
+#: addons/w2dc_ratings/templates/avg_rating.tpl.php:26
+#, php-format
+msgid "%d vote"
+msgid_plural "%d votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: addons/w2dc_ratings/templates/ratings_metabox.tpl.php:5
+msgid "Are you sure you want to flush all ratings of this listing?"
+msgstr ""
+
+#: addons/w2dc_ratings/templates/ratings_metabox.tpl.php:27
+msgid "Average"
+msgstr ""
+
+#: addons/w2dc_ratings/templates/ratings_metabox.tpl.php:38
+msgid "Star "
+msgid_plural "Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: addons/w2dc_ratings/templates/ratings_metabox.tpl.php:49
+msgid "Flush all ratings"
+msgstr ""
+
+#: addons/w2dc_ratings/templates/ratings_options_in_level.tpl.php:3
+#: addons/w2dc_ratings/w2dc_ratings.php:137
+msgid "Ratings"
+msgstr ""
+
+#: addons/w2dc_ratings/templates/single_rating.tpl.php:6
+#, php-format
+msgid "User rating: %d"
+msgstr ""
+
+#: addons/w2dc_ratings/w2dc_ratings.php:83
+msgid "Ratings settings"
+msgstr ""
+
+#: addons/w2dc_ratings/w2dc_ratings.php:88
+msgid "Only registered users may place ratings"
+msgstr ""
+
+#: addons/w2dc_ratings/w2dc_ratings.php:94
+msgid "Show rating in map info window"
+msgstr ""
+
+#: addons/w2dc_ratings/w2dc_ratings.php:100
+msgid "Allow users to flush ratings of own listings"
+msgstr ""
+
+#: addons/w2dc_ratings/w2dc_ratings.php:106
+msgid "Allow sorting by ratings"
+msgstr ""
+
+#: addons/w2dc_ratings/w2dc_ratings.php:155
+#: addons/w2dc_ratings/w2dc_ratings.php:179
+msgid "Listing ratings"
+msgstr ""
+
+#: addons/w2dc_ratings/w2dc_ratings.php:197
+#: addons/w2dc_ratings/w2dc_ratings.php:339
+#: addons/w2dc_ratings/w2dc_ratings.php:372
+#: addons/w2dc_ratings/w2dc_ratings.php:373
+#: addons/w2dc_ratings/w2dc_ratings.php:374
+msgid "Rating"
+msgstr ""
+
+#: classes/admin.php:50 classes/admin.php:51
+msgid "Choose level of new listing"
+msgstr ""
+
+#: classes/admin.php:93 classes/admin.php:94
+msgid "Directory Admin"
+msgstr ""
+
+#: classes/admin.php:114 vc.php:64
+msgid "Web 2.0 Directory"
+msgstr ""
+
+#: classes/admin.php:116
+msgid ""
+"\"Web 2.0 Directory\" page with [webdirectory] shortcode was successfully "
+"created, thank you!"
+msgstr ""
+
+#: classes/categories_manager.php:35
+#: classes/content_fields/content_fields.php:30 w2dc.php:622
+msgid "Listing categories"
+msgstr ""
+
+#: classes/categories_manager.php:61
+msgid "Sorry, you can not choose some categories for this level!"
+msgstr ""
+
+#: classes/categories_manager.php:91
+msgid "Category ID"
+msgstr ""
+
+#: classes/categories_manager.php:92
+#: classes/locations/locations_manager.php:176
+#: templates/categories/select_icon_form.tpl.php:2
+#: templates/locations/select_icon_form.tpl.php:2
+msgid "Icon"
+msgstr ""
+
+#: classes/categories_manager.php:161
+msgid "Select category icon"
+msgstr ""
+
+#: classes/categories_manager.php:181
+msgid "Sorry, you can not choose this category for this level!"
+msgstr ""
+
+#: classes/categories_manager.php:182
+#, php-format
+msgid "Sorry, you can not choose more than %d categories!"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:28
+msgid "Excerpt"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:29
+msgid "Content"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:31 w2dc.php:654
+msgid "Listing tags"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:32
+msgid "Listing addresses"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:33
+msgid "Text string"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:34
+msgid "Textarea"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:35
+msgid "Number"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:36
+msgid "Select list"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:37
+msgid "Radio buttons"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:38
+msgid "Checkboxes"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:39
+msgid "Website URL"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:40 classes/settings_manager.php:31
+msgid "Email"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:41
+msgid "Date-Time"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:43
+msgid "Opening hours"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:302
+#: classes/content_fields/content_fields.php:405
+msgid "Content field name"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:303
+#: classes/content_fields/content_fields_manager.php:411
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:32
+msgid "On tab"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:304
+#: classes/content_fields/content_fields_manager.php:412
+msgid "Hide from anonymous"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:407
+msgid "Content field slug"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:408
+msgid "Content field description"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:409
+#: classes/content_fields/content_fields_manager.php:281
+#: templates/content_fields/add_edit_content_field.tpl.php:178
+msgid "Icon image"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:411
+msgid "Content field required"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:413
+#: templates/content_fields/add_edit_content_field.tpl.php:235
+msgid "Order by field"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:414
+#: templates/content_fields/add_edit_content_field.tpl.php:154
+msgid "Hide name"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:415
+#: templates/content_fields/add_edit_content_field.tpl.php:248
+msgid "On excerpt page"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:416
+#: templates/content_fields/add_edit_content_field.tpl.php:260
+msgid "On listing page"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:417
+#: classes/content_fields/content_fields_manager.php:364
+#: templates/content_fields/add_edit_content_field.tpl.php:272
+msgid "On map"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:420
+msgid "Content field type"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:422
+#: classes/levels/levels_manager.php:80
+#: templates/content_fields/add_edit_content_field.tpl.php:346
+#: templates/levels/add_edit_level.tpl.php:315
+msgid "Assigned categories"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:424
+#: classes/content_fields/content_fields_manager.php:366
+msgid "On search form"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:425
+msgid "On advanced search panel"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:452
+msgid "Can't use this slug"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:22
+#: classes/content_fields/content_fields_manager.php:23
+#: classes/content_fields/content_fields_manager.php:206
+#: templates/admin_index.tpl.php:55
+#: templates/content_fields/content_fields_table.tpl.php:27
+msgid "Content fields"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:55
+msgid "Content fields order and relations were updated!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:89
+msgid "Content field was updated successfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:93
+msgid "Content field was created succcessfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:124
+msgid "Content fields group was updated successfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:128
+msgid "Content fields group was created succcessfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:149
+msgid "This content field can't be configured"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:162
+msgid "Content field was deleted successfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:166
+msgid "Delete content field"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:166
+#, php-format
+msgid "Are you sure you want delete \"%s\" content field?"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:178
+msgid "Content fields group was deleted successfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:182
+msgid "Delete content fields group"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:182
+#, php-format
+msgid "Are you sure you want delete \"%s\" content fields group?"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:269
+msgid "content field"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:270
+msgid "content fields"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:278
+#: classes/content_fields/content_fields_manager.php:410
+#: classes/levels/levels_manager.php:182 classes/levels/levels_manager.php:283
+#: classes/locations/locations_levels.php:105
+msgid "Name"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:279
+#: templates/content_fields/add_edit_content_field.tpl.php:191
+msgid "Field type"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:280
+msgid "Required"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:282
+msgid "Visibility"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:283
+msgid "Group"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:321
+#: classes/content_fields/content_fields_manager.php:439
+#: classes/levels/levels_manager.php:225
+#: classes/locations/locations_levels.php:134
+msgid "Edit"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:323
+msgid "Configure"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:325
+msgid "Configure search"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:330
+#: classes/content_fields/content_fields_manager.php:440
+#: classes/levels/levels_manager.php:226
+#: classes/locations/locations_levels.php:135
+#: templates/delete_question.tpl.php:13
+msgid "Delete"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:360
+msgid "On excerpt"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:362
+msgid "On listing"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:380
+msgid "- Without group -"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:394
+msgid "No content fields found."
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:402
+msgid "content fields group"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:403
+msgid "content fields groups"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:466
+msgid "No content fields groups found."
+msgstr ""
+
+#: classes/content_fields/fields/content_field_checkbox.php:22
+#: classes/content_fields/fields/content_field_select.php:66
+#, php-format
+msgid "This selection option index \"%d\" doesn't exist"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_checkbox.php:27
+#, php-format
+msgid "At least one option must be selected in \"%s\" content field"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_checkbox.php:53
+#: classes/content_fields/fields/content_field_select.php:87
+#, php-format
+msgid "This selection option \"%s\" doesn't exist"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_content.php:18
+msgid "Listing content is required"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_datetime.php:21
+#: templates/content_fields/fields/datetime_configuration.tpl.php:14
+msgid "Enable time in field"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_datetime.php:25
+#: classes/content_fields/fields/content_field_hours.php:32
+#: classes/content_fields/fields/content_field_number.php:34
+#: classes/content_fields/fields/content_field_price.php:32
+#: classes/content_fields/fields/content_field_select.php:32
+#: classes/content_fields/fields/content_field_string.php:27
+#: classes/content_fields/fields/content_field_textarea.php:30
+#: classes/content_fields/fields/content_field_website.php:33
+msgid "Field configuration was updated successfully!"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_excerpt.php:18
+msgid "Listing excerpt is required"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:28
+#: templates/content_fields/fields/hours_configuration.tpl.php:14
+msgid "Time convention"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:59
+#: classes/content_fields/fields/content_field_hours.php:137
+msgid "Sunday"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:59
+#: classes/content_fields/fields/content_field_hours.php:137
+msgid "Monday"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:59
+#: classes/content_fields/fields/content_field_hours.php:137
+msgid "Tuesday"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:59
+#: classes/content_fields/fields/content_field_hours.php:137
+msgid "Wednesday"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:59
+#: classes/content_fields/fields/content_field_hours.php:137
+msgid "Thursday"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:59
+#: classes/content_fields/fields/content_field_hours.php:137
+msgid "Friday"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:59
+#: classes/content_fields/fields/content_field_hours.php:137
+msgid "Saturday"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:141
+#: templates/content_fields/fields/hours_input.tpl.php:6
+msgid "Closed"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:259
+msgid "AM"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_hours.php:260
+msgid "PM"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:26
+#: templates/content_fields/fields/number_configuration.tpl.php:14
+msgid "Is integer or decimal"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:29
+#: classes/search_fields/fields/content_field_number_search.php:133
+#: templates/content_fields/fields/number_configuration.tpl.php:58
+msgid "Min"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:30
+#: classes/search_fields/fields/content_field_number_search.php:139
+#: templates/content_fields/fields/number_configuration.tpl.php:71
+msgid "Max"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:123
+#: classes/content_fields/fields/content_field_price.php:108
+#: classes/form_validation.php:21
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:125
+#: classes/form_validation.php:23
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:127
+#: classes/form_validation.php:31
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:129
+#: classes/form_validation.php:30
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: classes/content_fields/fields/content_field_price.php:25
+#: templates/content_fields/fields/price_configuration.tpl.php:14
+msgid "Currency symbol"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_price.php:26
+#: templates/content_fields/fields/price_configuration.tpl.php:26
+msgid "Currency code"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_select.php:28
+msgid "Selection items"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:22
+#: classes/content_fields/fields/content_field_textarea.php:24
+#: templates/content_fields/fields/string_configuration.tpl.php:14
+#: templates/content_fields/fields/textarea_configuration.tpl.php:14
+msgid "Max length"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:23
+#: templates/content_fields/fields/string_configuration.tpl.php:26
+msgid "PHP RegEx template"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:59
+#: classes/content_fields/fields/content_field_string.php:101
+#, php-format
+msgid "Field %s doesn't match template!"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:99
+#, php-format
+msgid "Field %s must be a string!"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:103
+#: classes/content_fields/fields/content_field_textarea.php:86
+#: classes/form_validation.php:16
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: classes/content_fields/fields/content_field_textarea.php:25
+#: templates/content_fields/fields/textarea_configuration.tpl.php:26
+msgid "HTML editor enabled"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_textarea.php:26
+msgid "Shortcodes processing"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_website.php:25
+#: templates/content_fields/fields/website_configuration.tpl.php:14
+msgid "Open link in new window"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_website.php:26
+#: templates/content_fields/fields/website_configuration.tpl.php:27
+msgid "Add nofollow attribute"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_website.php:27
+#: classes/content_fields/fields/content_field_website.php:28
+#: templates/content_fields/fields/website_configuration.tpl.php:53
+msgid "Default link text"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_website.php:29
+msgid "Use default link text"
+msgstr ""
+
+#: classes/csv_manager.php:31 classes/csv_manager.php:32
+#: templates/csv_manager/collate_columns.tpl.php:4
+#: templates/csv_manager/import_results.tpl.php:4
+#: templates/csv_manager/import_settings.tpl.php:4
+msgid "CSV Import"
+msgstr ""
+
+#: classes/csv_manager.php:43
+msgid "Title*"
+msgstr ""
+
+#: classes/csv_manager.php:44
+msgid "Level ID*"
+msgstr ""
+
+#: classes/csv_manager.php:46 vc.php:382 vc.php:598 vc.php:694 vc.php:888
+msgid "Categories"
+msgstr ""
+
+#: classes/csv_manager.php:47
+msgid "Tags"
+msgstr ""
+
+#: classes/csv_manager.php:48
+msgid "Description"
+msgstr ""
+
+#: classes/csv_manager.php:49
+msgid "Summary"
+msgstr ""
+
+#: classes/csv_manager.php:50 classes/locations/locations_manager.php:175
+msgid "Location ID"
+msgstr ""
+
+#: classes/csv_manager.php:51
+msgid "Address part 1"
+msgstr ""
+
+#: classes/csv_manager.php:52
+msgid "Address part 2"
+msgstr ""
+
+#: classes/csv_manager.php:53
+msgid "Address part 3"
+msgstr ""
+
+#: classes/csv_manager.php:54
+msgid "Address part 4"
+msgstr ""
+
+#: classes/csv_manager.php:55 classes/settings_manager.php:917
+msgid "Zip code or postal index"
+msgstr ""
+
+#: classes/csv_manager.php:56 classes/locations/locations_manager.php:96
+#: templates/locations/locations_in_metabox.tpl.php:82
+msgid "Latitude"
+msgstr ""
+
+#: classes/csv_manager.php:57 classes/locations/locations_manager.php:97
+#: templates/locations/locations_in_metabox.tpl.php:92
+msgid "Longitude"
+msgstr ""
+
+#: classes/csv_manager.php:58
+msgid "Images files"
+msgstr ""
+
+#: classes/csv_manager.php:59 classes/locations/locations_manager.php:98
+msgid "Map icon file"
+msgstr ""
+
+#: classes/csv_manager.php:97 classes/csv_manager.php:222
+#: templates/csv_manager/import_settings.tpl.php:37
+msgid "Columns separator"
+msgstr ""
+
+#: classes/csv_manager.php:98 classes/csv_manager.php:223
+#: templates/csv_manager/import_settings.tpl.php:49
+msgid "Images separator"
+msgstr ""
+
+#: classes/csv_manager.php:99 classes/csv_manager.php:224
+msgid "categories separator"
+msgstr ""
+
+#: classes/csv_manager.php:103 classes/csv_manager.php:220
+msgid "CSV file name"
+msgstr ""
+
+#: classes/csv_manager.php:104 classes/csv_manager.php:221
+msgid "Images directory"
+msgstr ""
+
+#: classes/csv_manager.php:105 classes/csv_manager.php:225
+msgid "Category not found"
+msgstr ""
+
+#: classes/csv_manager.php:106 classes/csv_manager.php:226
+#: templates/csv_manager/collate_columns.tpl.php:67
+msgid "Listings author"
+msgstr ""
+
+#: classes/csv_manager.php:107 classes/csv_manager.php:227
+msgid "Geocode imported listings"
+msgstr ""
+
+#: classes/csv_manager.php:109 classes/csv_manager.php:229
+#: templates/csv_manager/collate_columns.tpl.php:93
+msgid "Configure imported listings as claimable"
+msgstr ""
+
+#: classes/csv_manager.php:110 classes/csv_manager.php:230
+msgid "Listings fields"
+msgstr ""
+
+#: classes/csv_manager.php:135 classes/csv_manager.php:246
+msgid "CSV temp file doesn't exist"
+msgstr ""
+
+#: classes/csv_manager.php:140 classes/csv_manager.php:249
+msgid "Images temp directory doesn't exist"
+msgstr ""
+
+#: classes/csv_manager.php:147
+msgid "There was a problem trying to upload CSV file"
+msgstr ""
+
+#: classes/csv_manager.php:152
+msgid "This is not CSV file"
+msgstr ""
+
+#: classes/csv_manager.php:164
+msgid "There was a problem trying to upload ZIP images file"
+msgstr ""
+
+#: classes/csv_manager.php:169
+msgid "There was a problem trying to unpack ZIP images file"
+msgstr ""
+
+#: classes/csv_manager.php:252
+msgid "Title field wasn't collated"
+msgstr ""
+
+#: classes/csv_manager.php:255
+msgid "Level ID field wasn't collated"
+msgstr ""
+
+#: classes/csv_manager.php:258
+msgid "There isn't author user you selected"
+msgstr ""
+
+#: classes/csv_manager.php:260
+msgid "Author field wasn't collated and default author wasn't selected"
+msgstr ""
+
+#: classes/csv_manager.php:309
+#, php-format
+msgid "Line %d has too many columns"
+msgstr ""
+
+#: classes/csv_manager.php:311
+#, php-format
+msgid "Line %d has less columns than header line"
+msgstr ""
+
+#: classes/csv_manager.php:320
+msgid "Can't open CSV file"
+msgstr ""
+
+#: classes/csv_manager.php:356
+#, php-format
+msgid "Import started, number of available rows in file: %d"
+msgstr ""
+
+#: classes/csv_manager.php:358
+msgid "Test mode enabled"
+msgstr ""
+
+#: classes/csv_manager.php:388 classes/csv_manager.php:397
+#: classes/csv_manager.php:408 classes/csv_manager.php:427
+#: classes/csv_manager.php:440 classes/csv_manager.php:534
+#: classes/csv_manager.php:536 classes/csv_manager.php:553
+#: classes/csv_manager.php:555
+#, php-format
+msgid "line %d: "
+msgstr ""
+
+#: classes/csv_manager.php:388
+#, php-format
+msgid "User \"%s\" doesn't exist"
+msgstr ""
+
+#: classes/csv_manager.php:397
+msgid "Wrong level ID"
+msgstr ""
+
+#: classes/csv_manager.php:408
+#, php-format
+msgid "Directory location with ID \"%d\" wasn't found"
+msgstr ""
+
+#: classes/csv_manager.php:427
+msgid "Images column was specified, but ZIP archive wasn't upload"
+msgstr ""
+
+#: classes/csv_manager.php:534
+#, php-format
+msgid "Something wrong with directory category \"%s\""
+msgstr ""
+
+#: classes/csv_manager.php:536
+#, php-format
+msgid "Directory category \"%s\" wasn't found, was skipped"
+msgstr ""
+
+#: classes/csv_manager.php:553
+#, php-format
+msgid "Something wrong with directory tag \"%s\""
+msgstr ""
+
+#: classes/csv_manager.php:555
+#, php-format
+msgid "Directory tag \"%s\" wasn't found, was skipped"
+msgstr ""
+
+#: classes/csv_manager.php:599
+#, php-format
+msgctxt "admin csv-import"
+msgid "Image file \"%s\" could not be inserted."
+msgstr ""
+
+#: classes/csv_manager.php:601
+#, php-format
+msgctxt "W2DC"
+msgid "Image file \"%s\" wasn't attached. Full path: \"%s\". Error: %s"
+msgstr ""
+
+#: classes/csv_manager.php:603
+#, php-format
+msgctxt "W2DC"
+msgid ""
+"There isn't specified image file \"%s\" inside ZIP file. Or temp folder "
+"wasn't created: \"%s\""
+msgstr ""
+
+#: classes/csv_manager.php:617
+#, php-format
+msgid "Import finished, number of errors: %d, total rejected lines: %d"
+msgstr ""
+
+#: classes/form_validation.php:9
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: classes/form_validation.php:10
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: classes/form_validation.php:11
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: classes/form_validation.php:12
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: classes/form_validation.php:13
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: classes/form_validation.php:14
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: classes/form_validation.php:15
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: classes/form_validation.php:17
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: classes/form_validation.php:18
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: classes/form_validation.php:19
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: classes/form_validation.php:20
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: classes/form_validation.php:22
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: classes/form_validation.php:24
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: classes/form_validation.php:25
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: classes/form_validation.php:26
+#, php-format
+msgid "The %s field must contain a unique value."
+msgstr ""
+
+#: classes/form_validation.php:27
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: classes/form_validation.php:28
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: classes/form_validation.php:29
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: classes/levels/levels.php:254
+msgid "Never expire"
+msgstr ""
+
+#: classes/levels/levels_manager.php:18 classes/levels/levels_manager.php:19
+#: templates/levels/upgrade_levels_table.tpl.php:24
+msgid "Listings upgrade"
+msgstr ""
+
+#: classes/levels/levels_manager.php:44
+msgid "Levels order was updated!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:63
+#: classes/locations/locations_levels_manager.php:50
+#: templates/levels/add_edit_level.tpl.php:43
+#: templates/locations/add_edit_locations_level.tpl.php:19
+msgid "Level name"
+msgstr ""
+
+#: classes/levels/levels_manager.php:64
+msgid "years"
+msgstr ""
+
+#: classes/levels/levels_manager.php:65
+msgid "months"
+msgstr ""
+
+#: classes/levels/levels_manager.php:66
+msgid "days"
+msgstr ""
+
+#: classes/levels/levels_manager.php:67
+#: templates/levels/add_edit_level.tpl.php:55
+msgid "Level description"
+msgstr ""
+
+#: classes/levels/levels_manager.php:68
+#: templates/levels/add_edit_level.tpl.php:151
+msgid "Ability to raise up listings"
+msgstr ""
+
+#: classes/levels/levels_manager.php:69
+#: templates/levels/add_edit_level.tpl.php:164
+msgid "Sticky listings"
+msgstr ""
+
+#: classes/levels/levels_manager.php:70
+msgid "Listings own pages"
+msgstr ""
+
+#: classes/levels/levels_manager.php:71
+msgid "Nofollow attribute"
+msgstr ""
+
+#: classes/levels/levels_manager.php:72
+#: templates/levels/add_edit_level.tpl.php:177
+msgid "Featured listings"
+msgstr ""
+
+#: classes/levels/levels_manager.php:73
+#: templates/levels/add_edit_level.tpl.php:293
+msgid "Categories number available"
+msgstr ""
+
+#: classes/levels/levels_manager.php:74
+msgid "Unlimited categories number"
+msgstr ""
+
+#: classes/levels/levels_manager.php:75
+#: templates/levels/add_edit_level.tpl.php:216
+msgid "Enable google map"
+msgstr ""
+
+#: classes/levels/levels_manager.php:76
+#: templates/levels/add_edit_level.tpl.php:228
+msgid "Enable listing logo"
+msgstr ""
+
+#: classes/levels/levels_manager.php:77
+msgid "Listing logo size"
+msgstr ""
+
+#: classes/levels/levels_manager.php:78
+#: templates/levels/add_edit_level.tpl.php:240
+msgid "Images number available"
+msgstr ""
+
+#: classes/levels/levels_manager.php:79
+#: templates/levels/add_edit_level.tpl.php:252
+msgid "Videos number available"
+msgstr ""
+
+#: classes/levels/levels_manager.php:81
+#: templates/levels/add_edit_level.tpl.php:324
+msgid "Assigned content fields"
+msgstr ""
+
+#: classes/levels/levels_manager.php:82 classes/levels/levels_manager.php:188
+#: classes/levels/levels_manager.php:288
+msgid "Locations number"
+msgstr ""
+
+#: classes/levels/levels_manager.php:83
+#: templates/levels/add_edit_level.tpl.php:280
+msgid "Custom markers on google map"
+msgstr ""
+
+#: classes/levels/levels_manager.php:89
+#: classes/locations/locations_levels_manager.php:57
+msgid "Level was updated successfully!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:93
+#: classes/locations/locations_levels_manager.php:61
+msgid "Level was created succcessfully!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:116
+#: classes/locations/locations_levels_manager.php:83
+msgid "Level was deleted successfully!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:120
+msgid "Delete level"
+msgstr ""
+
+#: classes/levels/levels_manager.php:120
+#, php-format
+msgid "Are you sure you want delete \"%s\" level with all listings inside?"
+msgstr ""
+
+#: classes/levels/levels_manager.php:146
+msgid "Listings upgrade settings were updated successfully!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:173 classes/levels/levels_manager.php:275
+msgid "level"
+msgstr ""
+
+#: classes/levels/levels_manager.php:174 classes/levels/levels_manager.php:276
+msgid "levels"
+msgstr ""
+
+#: classes/levels/levels_manager.php:186 classes/levels/levels_manager.php:287
+msgid "Categories number"
+msgstr ""
+
+#: classes/levels/levels_manager.php:210 classes/levels/levels_manager.php:254
+#: classes/levels/levels_manager.php:313 classes/levels/levels_manager.php:355
+msgid "Unlimited"
+msgstr ""
+
+#: classes/levels/levels_manager.php:267
+msgid "No levels found."
+msgstr ""
+
+#: classes/levels/levels_manager.php:317
+msgid "Create listing in this level"
+msgstr ""
+
+#: classes/levels/levels_manager.php:368
+msgid "No levels found. Can't create new listings."
+msgstr ""
+
+#: classes/listings/listing.php:501
+msgid "Your claim was approved successully"
+msgstr ""
+
+#: classes/listings/listing.php:503
+msgid "Your claim was not approved yet"
+msgstr ""
+
+#: classes/listings/listing.php:506
+msgid "You may approve or decline claim"
+msgstr ""
+
+#: classes/listings/listings_manager.php:57
+msgid "Listing Info"
+msgstr ""
+
+#: classes/listings/listings_manager.php:114
+msgid "Renew listing first!"
+msgstr ""
+
+#: classes/listings/listings_manager.php:134
+msgid "Claim"
+msgstr ""
+
+#: classes/listings/listings_manager.php:161
+msgid "change expiration date"
+msgstr ""
+
+#: classes/listings/listings_manager.php:192
+msgid "Claimable"
+msgstr ""
+
+#: classes/listings/listings_manager.php:218
+msgid "Any listings status"
+msgstr ""
+
+#: classes/listings/listings_manager.php:219
+msgid "Active"
+msgstr ""
+
+#: classes/listings/listings_manager.php:220
+msgid "Expired"
+msgstr ""
+
+#: classes/listings/listings_manager.php:221
+msgid "Unpaid"
+msgstr ""
+
+#: classes/listings/listings_manager.php:225
+msgid "All listings levels"
+msgstr ""
+
+#: classes/listings/listings_manager.php:232
+msgid "Any listings claim"
+msgstr ""
+
+#: classes/listings/listings_manager.php:233
+msgid "Only claimable"
+msgstr ""
+
+#: classes/listings/listings_manager.php:234
+msgid "Awaiting approval"
+msgstr ""
+
+#: classes/listings/listings_manager.php:322
+#: classes/listings/listings_manager.php:323
+msgid "Raise up listing"
+msgstr ""
+
+#: classes/listings/listings_manager.php:383
+#: classes/listings/listings_manager.php:384
+#: templates/listings/change_date.tpl.php:5
+msgid "Change expiration date"
+msgstr ""
+
+#: classes/listings/listings_manager.php:413
+msgid "Expiration hour"
+msgstr ""
+
+#: classes/listings/listings_manager.php:414
+msgid "Expiration minute"
+msgstr ""
+
+#: classes/listings/listings_manager.php:418
+msgid "Expiration date of listing was changed successfully!"
+msgstr ""
+
+#: classes/listings/listings_manager.php:427
+#: classes/listings/listings_manager.php:428
+msgid "Change level of listing"
+msgstr ""
+
+#: classes/listings/listings_manager.php:465
+#: classes/listings/listings_manager.php:466
+#: templates/listings/upgrade_bulk.tpl.php:5
+msgid "Change level of listings"
+msgstr ""
+
+#: classes/listings/listings_manager.php:498
+#, php-format
+msgid "%d listings have changed levels successfully!"
+msgstr ""
+
+#: classes/listings/listings_manager.php:554
+#: classes/listings/listings_manager.php:555
+msgid "Approve or decline claim"
+msgstr ""
+
+#: classes/listings/listings_manager.php:740
+msgid ""
+"You can't publish listing until it has expired status! Renew listing first!"
+msgstr ""
+
+#: classes/locations/locations_levels.php:33
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: classes/locations/locations_levels.php:97
+msgid "locations level"
+msgstr ""
+
+#: classes/locations/locations_levels.php:98
+msgid "locations levels"
+msgstr ""
+
+#: classes/locations/locations_levels.php:107
+#: classes/locations/locations_levels_manager.php:52
+#: templates/locations/add_edit_locations_level.tpl.php:40
+msgid "In address line"
+msgstr ""
+
+#: classes/locations/locations_levels.php:162
+msgid "No locations levels found"
+msgstr ""
+
+#: classes/locations/locations_levels_manager.php:11
+#: classes/locations/locations_levels_manager.php:12
+#: templates/admin_index.tpl.php:47
+#: templates/locations/locations_levels_table.tpl.php:5
+msgid "Locations levels"
+msgstr ""
+
+#: classes/locations/locations_levels_manager.php:87
+msgid "Delete locations level"
+msgstr ""
+
+#: classes/locations/locations_levels_manager.php:87
+#, php-format
+msgid "Are you sure you want delete \"%s\" locations level?"
+msgstr ""
+
+#: classes/locations/locations_manager.php:89
+msgid "Listing location"
+msgstr ""
+
+#: classes/locations/locations_manager.php:90 classes/settings_manager.php:914
+msgid "Selected location"
+msgstr ""
+
+#: classes/locations/locations_manager.php:91
+#: templates/locations/locations_in_metabox.tpl.php:28
+msgid "Address line 1"
+msgstr ""
+
+#: classes/locations/locations_manager.php:92
+#: templates/locations/locations_in_metabox.tpl.php:44
+msgid "Address line 2"
+msgstr ""
+
+#: classes/locations/locations_manager.php:93
+#: templates/locations/locations_in_metabox.tpl.php:53
+msgid "Zip code"
+msgstr ""
+
+#: classes/locations/locations_manager.php:94
+#: templates/locations/locations_in_metabox.tpl.php:62
+msgid "Additional info"
+msgstr ""
+
+#: classes/locations/locations_manager.php:95
+msgid "Use manual coordinates"
+msgstr ""
+
+#: classes/locations/locations_manager.php:99
+msgid "Map zoom"
+msgstr ""
+
+#: classes/locations/locations_manager.php:256
+msgid "Select location icon"
+msgstr ""
+
+#: classes/media_manager.php:56
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: classes/media_manager.php:66
+#, php-format
+msgid "Unattached <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: classes/media_manager.php:75
+msgid "Listing media"
+msgstr ""
+
+#: classes/media_manager.php:156
+msgid "Please upload only image files (jpg, gif or png)."
+msgstr ""
+
+#: classes/media_manager.php:160
+msgid "You do not have permissions to edit this listing!"
+msgstr ""
+
+#: classes/media_manager.php:162
+msgid "Wrong listing ID."
+msgstr ""
+
+#: classes/media_manager.php:164 templates/media_metabox.tpl.php:123
+msgid "Choose image to upload first!"
+msgstr ""
+
+#: classes/media_manager.php:189
+msgid "Listing images ID"
+msgstr ""
+
+#: classes/media_manager.php:190
+msgid "Listing images caption"
+msgstr ""
+
+#: classes/media_manager.php:192
+msgid "Logo image selection"
+msgstr ""
+
+#: classes/media_manager.php:195
+msgid "Listing video ID"
+msgstr ""
+
+#: classes/media_manager.php:196
+msgid "Listing video caption"
+msgstr ""
+
+#: classes/search_fields/fields/content_field_datetime_search.php:71
+msgid "From "
+msgstr ""
+
+#: classes/search_fields/fields/content_field_datetime_search.php:78
+msgid "To "
+msgstr ""
+
+#: classes/search_fields/fields/content_field_number_search.php:15
+#: templates/search_fields/fields/number_price_configuration.tpl.php:25
+msgid "Search mode"
+msgstr ""
+
+#: classes/search_fields/fields/content_field_number_search.php:16
+msgid "Min-Max options"
+msgstr ""
+
+#: classes/search_fields/fields/content_field_number_search.php:17
+msgid "From option"
+msgstr ""
+
+#: classes/search_fields/fields/content_field_number_search.php:18
+msgid "To option"
+msgstr ""
+
+#: classes/search_fields/fields/content_field_number_search.php:22
+#: classes/search_fields/fields/content_field_select_search.php:16
+msgid "Search field configuration was updated successfully!"
+msgstr ""
+
+#: classes/search_fields/fields/content_field_select_search.php:12
+#: templates/search_fields/fields/select_checkbox_radio_configuration.tpl.php:14
+msgid "Search input mode"
+msgstr ""
+
+#: classes/search_fields/fields/content_field_select_search.php:36 vc.php:12
+msgid "All"
+msgstr ""
+
+#: classes/search_fields/search_fields.php:307
+#: classes/search_fields/search_fields.php:308
+#: classes/search_fields/search_fields.php:309
+msgid "Distance"
+msgstr ""
+
+#: classes/settings_manager.php:21
+msgid "Facebook"
+msgstr ""
+
+#: classes/settings_manager.php:22
+msgid "Twitter"
+msgstr ""
+
+#: classes/settings_manager.php:23
+msgid "Google+"
+msgstr ""
+
+#: classes/settings_manager.php:24
+msgid "LinkedIn"
+msgstr ""
+
+#: classes/settings_manager.php:25
+msgid "Digg"
+msgstr ""
+
+#: classes/settings_manager.php:26
+msgid "Reddit"
+msgstr ""
+
+#: classes/settings_manager.php:27
+msgid "Pinterest"
+msgstr ""
+
+#: classes/settings_manager.php:28
+msgid "Tumblr"
+msgstr ""
+
+#: classes/settings_manager.php:29
+msgid "StumbleUpon"
+msgstr ""
+
+#: classes/settings_manager.php:30
+msgid "VK"
+msgstr ""
+
+#: classes/settings_manager.php:35
+msgid "Addresses tab"
+msgstr ""
+
+#: classes/settings_manager.php:36
+msgid "Comments tab"
+msgstr ""
+
+#: classes/settings_manager.php:37
+msgid "Videos tab"
+msgstr ""
+
+#: classes/settings_manager.php:38
+msgid "Contact tab"
+msgstr ""
+
+#: classes/settings_manager.php:48
+msgid "Web 2.0 Directory Settings"
+msgstr ""
+
+#: classes/settings_manager.php:53
+msgid "General settings"
+msgstr ""
+
+#: classes/settings_manager.php:58
+msgid "Addons"
+msgstr ""
+
+#: classes/settings_manager.php:63
+msgid "Frontend submission & dashboard addon"
+msgstr ""
+
+#: classes/settings_manager.php:64
+msgid ""
+"Allow users to submit new listings at the frontend side of your site, also "
+"provides users dashboard functionality."
+msgstr ""
+
+#: classes/settings_manager.php:70
+msgid "Payments addon"
+msgstr ""
+
+#: classes/settings_manager.php:71
+msgid ""
+"Includes payments processing and invoices management functionality into "
+"directory/classifieds website."
+msgstr ""
+
+#: classes/settings_manager.php:77
+msgid "Ratings addon"
+msgstr ""
+
+#: classes/settings_manager.php:78
+msgid ""
+"Ability to place ratings for listings, then manage these ratings by listings "
+"owners, also ability to rate comments/reviews."
+msgstr ""
+
+#: classes/settings_manager.php:85 vc.php:519
+msgid "AJAX loading"
+msgstr ""
+
+#: classes/settings_manager.php:90
+msgid "Use AJAX loading"
+msgstr ""
+
+#: classes/settings_manager.php:91
+msgid ""
+"Load maps and listings using AJAX when click on search button, sorting "
+"buttons, pagination buttons."
+msgstr ""
+
+#: classes/settings_manager.php:97
+msgid "Initial AJAX loading"
+msgstr ""
+
+#: classes/settings_manager.php:98
+msgid ""
+"Initially load listings only after the page was completely loaded (not "
+"recommended)."
+msgstr ""
+
+#: classes/settings_manager.php:104
+msgid "Display \"Show More Listings\" button instead of default paginator"
+msgstr ""
+
+#: classes/settings_manager.php:111
+msgid "Titles, Slugs & Permalinks"
+msgstr ""
+
+#: classes/settings_manager.php:116
+msgid "Directory title"
+msgstr ""
+
+#: classes/settings_manager.php:122
+msgid "Notice about slugs:"
+msgstr ""
+
+#: classes/settings_manager.php:123
+msgid ""
+"Slugs must contain only alpha-numeric characters, underscores or dashes. All "
+"slugs must be unique and different."
+msgstr ""
+
+#: classes/settings_manager.php:129
+msgid "Listing slug"
+msgstr ""
+
+#: classes/settings_manager.php:136
+msgid "Category slug"
+msgstr ""
+
+#: classes/settings_manager.php:143
+msgid "Location slug"
+msgstr ""
+
+#: classes/settings_manager.php:150
+msgid "Tag slug"
+msgstr ""
+
+#: classes/settings_manager.php:157
+msgid "Listings permalinks structure"
+msgstr ""
+
+#: classes/settings_manager.php:158
+msgid ""
+"<b>/%postname%/</b> works only when directory page is not front page.<br /"
+"><b>/%post_id%/%postname%/</b> will not work when the same structure was "
+"enabled for native WP posts."
+msgstr ""
+
+#: classes/settings_manager.php:163
+msgid "/%postname%/"
+msgstr ""
+
+#: classes/settings_manager.php:167
+msgid "/%post_id%/%postname%/"
+msgstr ""
+
+#: classes/settings_manager.php:171
+msgid "/%listing_slug%/%postname%/"
+msgstr ""
+
+#: classes/settings_manager.php:175
+msgid "/%listing_slug%/%category%/%postname%/"
+msgstr ""
+
+#: classes/settings_manager.php:179
+msgid "/%listing_slug%/%location%/%postname%/"
+msgstr ""
+
+#: classes/settings_manager.php:183
+msgid "/%listing_slug%/%tag%/%postname%/"
+msgstr ""
+
+#: classes/settings_manager.php:198
+msgid "Listings settings"
+msgstr ""
+
+#: classes/settings_manager.php:203
+msgid "Show listings on index"
+msgstr ""
+
+#: classes/settings_manager.php:209
+msgid "Number of listings on index page"
+msgstr ""
+
+#: classes/settings_manager.php:216
+msgid ""
+"Number of listings on excerpt pages (categories, locations, tags, search "
+"results)"
+msgstr ""
+
+#: classes/settings_manager.php:223
+msgid "Enable contact form on listing page"
+msgstr ""
+
+#: classes/settings_manager.php:224
+msgid "Contact Form 7 or standard form will be displayed on each listing page"
+msgstr ""
+
+#: classes/settings_manager.php:230
+msgid "Contact Form 7 shortcode"
+msgstr ""
+
+#: classes/settings_manager.php:231
+msgid ""
+"This will work only when Contact Form 7 plugin enabled, otherwise standard "
+"contact form will be displayed."
+msgstr ""
+
+#: classes/settings_manager.php:237
+msgid "Enable bookmarks list"
+msgstr ""
+
+#: classes/settings_manager.php:243
+msgid "Show print listing button"
+msgstr ""
+
+#: classes/settings_manager.php:249
+msgid "Show listing in PDF button"
+msgstr ""
+
+#: classes/settings_manager.php:255
+msgid "Allow regular users to change listings expiration dates"
+msgstr ""
+
+#: classes/settings_manager.php:261
+msgid "Hide comments number on index and excerpt pages"
+msgstr ""
+
+#: classes/settings_manager.php:267
+msgid "Hide listings creation date"
+msgstr ""
+
+#: classes/settings_manager.php:273
+msgid "Listings comments mode"
+msgstr ""
+
+#: classes/settings_manager.php:278
+msgid "Always enabled"
+msgstr ""
+
+#: classes/settings_manager.php:282
+msgid "Always disabled"
+msgstr ""
+
+#: classes/settings_manager.php:286
+msgid "As configured in WP settings"
+msgstr ""
+
+#: classes/settings_manager.php:293
+msgid "Priority of opening of listing tabs"
+msgstr ""
+
+#: classes/settings_manager.php:295
+msgid ""
+"Set up priority of tabs those are opened by default. If any listing does not "
+"have any tab - next tab in the order will be opened by default."
+msgstr ""
+
+#: classes/settings_manager.php:302
+msgid "Breadcrumbs settings"
+msgstr ""
+
+#: classes/settings_manager.php:307
+msgid "Enable breadcrumbs"
+msgstr ""
+
+#: classes/settings_manager.php:313
+msgid "Hide home link in breadcrumbs"
+msgstr ""
+
+#: classes/settings_manager.php:319
+msgid "Breadcrumbs mode on listing single page"
+msgstr ""
+
+#: classes/settings_manager.php:324
+msgid "%listing title%"
+msgstr ""
+
+#: classes/settings_manager.php:328
+msgid "%category% » %listing title%"
+msgstr ""
+
+#: classes/settings_manager.php:332
+msgid "%location% » %listing title%"
+msgstr ""
+
+#: classes/settings_manager.php:340
+msgid "Listings logos & images"
+msgstr ""
+
+#: classes/settings_manager.php:345
+msgid "Enable lighbox on images gallery"
+msgstr ""
+
+#: classes/settings_manager.php:351
+msgid "Enable automatic rotating slideshow on images gallery"
+msgstr ""
+
+#: classes/settings_manager.php:357 vc.php:841
+msgid "The delay in rotation (in ms)"
+msgstr ""
+
+#: classes/settings_manager.php:363
+msgid "Exclude logo image from images gallery on single listing page"
+msgstr ""
+
+#: classes/settings_manager.php:369
+msgid "Enable default logo image"
+msgstr ""
+
+#: classes/settings_manager.php:375
+msgid "Default logo image"
+msgstr ""
+
+#: classes/settings_manager.php:376
+msgid "This image will appear when listing owner did not upload own logo."
+msgstr ""
+
+#: classes/settings_manager.php:382
+msgid "100% width of images gallery on single listing page"
+msgstr ""
+
+#: classes/settings_manager.php:388
+msgid "Images gallery width on single listing page (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:389
+msgid ""
+"This option needed only when 100% width of images gallery is switched off"
+msgstr ""
+
+#: classes/settings_manager.php:397
+msgid "Images gallery main slide mode"
+msgstr ""
+
+#: classes/settings_manager.php:402
+msgid "Cut off image to fit width and height of main slide"
+msgstr ""
+
+#: classes/settings_manager.php:406
+msgid "Full image inside main slide"
+msgstr ""
+
+#: classes/settings_manager.php:414
+msgid "Description & Excerpt settings"
+msgstr ""
+
+#: classes/settings_manager.php:419
+msgid "Enable description field"
+msgstr ""
+
+#: classes/settings_manager.php:425
+msgid "Enable summary field"
+msgstr ""
+
+#: classes/settings_manager.php:431
+msgid "Excerpt max length"
+msgstr ""
+
+#: classes/settings_manager.php:432
+msgid "Insert the number of words you want to show in the listings excerpts"
+msgstr ""
+
+#: classes/settings_manager.php:439
+msgid "Use cropped content as excerpt"
+msgstr ""
+
+#: classes/settings_manager.php:440
+msgid "When excerpt field is empty - use cropped main content"
+msgstr ""
+
+#: classes/settings_manager.php:446
+msgid "Strip HTML from excerpt"
+msgstr ""
+
+#: classes/settings_manager.php:447
+msgid "Check the box if you want to strip HTML from the excerpt content only"
+msgstr ""
+
+#: classes/settings_manager.php:456
+msgid "Pages & Views"
+msgstr ""
+
+#: classes/settings_manager.php:461
+msgid "Excerpt views"
+msgstr ""
+
+#: classes/settings_manager.php:466
+msgid "Enable views switcher"
+msgstr ""
+
+#: classes/settings_manager.php:472 vc.php:328
+msgid "Listings view by default"
+msgstr ""
+
+#: classes/settings_manager.php:473
+msgid "Do not forget that selected view will be stored in cookies"
+msgstr ""
+
+#: classes/settings_manager.php:478
+msgid "List view"
+msgstr ""
+
+#: classes/settings_manager.php:482
+msgid "Grid view"
+msgstr ""
+
+#: classes/settings_manager.php:489 vc.php:335
+msgid "Number of columns for listings Grid View"
+msgstr ""
+
+#: classes/settings_manager.php:497
+msgid "Aspect ratio of logo in Grid View"
+msgstr ""
+
+#: classes/settings_manager.php:502
+msgid "1:1 (square)"
+msgstr ""
+
+#: classes/settings_manager.php:506
+msgid "4:3"
+msgstr ""
+
+#: classes/settings_manager.php:510
+msgid "16:9"
+msgstr ""
+
+#: classes/settings_manager.php:514
+msgid "2:1"
+msgstr ""
+
+#: classes/settings_manager.php:521 vc.php:349
+msgid "Wrap logo image by text content in List View"
+msgstr ""
+
+#: classes/settings_manager.php:527
+msgid "Listing thumbnail logo width (in pixels) in List View"
+msgstr ""
+
+#: classes/settings_manager.php:536
+msgid "Categories settings"
+msgstr ""
+
+#: classes/settings_manager.php:541
+msgid "Show categories list on index and excerpt pages?"
+msgstr ""
+
+#: classes/settings_manager.php:547 vc.php:657
+msgid "Categories nesting level"
+msgstr ""
+
+#: classes/settings_manager.php:555 vc.php:672
+msgid "Categories columns number"
+msgstr ""
+
+#: classes/settings_manager.php:563 vc.php:664
+msgid "Show subcategories items number"
+msgstr ""
+
+#: classes/settings_manager.php:564
+#: templates/widgets/categories_widget_options.tpl.php:19
+msgid "Leave 0 to show all subcategories"
+msgstr ""
+
+#: classes/settings_manager.php:571 vc.php:679
+msgid "Show category listings count?"
+msgstr ""
+
+#: classes/settings_manager.php:578
+msgid "Locations settings"
+msgstr ""
+
+#: classes/settings_manager.php:583
+msgid "Show locations list on index and excerpt pages?"
+msgstr ""
+
+#: classes/settings_manager.php:589 vc.php:727
+msgid "Locations nesting level"
+msgstr ""
+
+#: classes/settings_manager.php:597 vc.php:742
+msgid "Locations columns number"
+msgstr ""
+
+#: classes/settings_manager.php:605 vc.php:734
+msgid "Show sublocations items number"
+msgstr ""
+
+#: classes/settings_manager.php:606
+#: templates/widgets/locations_widget_options.tpl.php:19
+msgid "Leave 0 to show all sublocations"
+msgstr ""
+
+#: classes/settings_manager.php:613 vc.php:749
+msgid "Show location listings count?"
+msgstr ""
+
+#: classes/settings_manager.php:620
+msgid "Sorting settings"
+msgstr ""
+
+#: classes/settings_manager.php:625
+msgid "Show order by links block"
+msgstr ""
+
+#: classes/settings_manager.php:631
+msgid "Allow sorting by date"
+msgstr ""
+
+#: classes/settings_manager.php:637
+msgid "Allow sorting by title"
+msgstr ""
+
+#: classes/settings_manager.php:643
+msgid "Allow sorting by distance when search by radius"
+msgstr ""
+
+#: classes/settings_manager.php:649
+msgid "Default order by"
+msgstr ""
+
+#: classes/settings_manager.php:656
+msgid "Default order direction"
+msgstr ""
+
+#: classes/settings_manager.php:660 vc.php:300 vc.php:868
+msgid "Ascending"
+msgstr ""
+
+#: classes/settings_manager.php:664 vc.php:300 vc.php:868
+msgid "Descending"
+msgstr ""
+
+#: classes/settings_manager.php:672
+msgid "Exclude listings with empty values from sorted results"
+msgstr ""
+
+#: classes/settings_manager.php:678
+msgid "Sticky and featured listings always will be on top"
+msgstr ""
+
+#: classes/settings_manager.php:679
+msgid ""
+"When switched off - sticky and featured listings will be on top only when "
+"listings were sorted by date."
+msgstr ""
+
+#: classes/settings_manager.php:688 classes/settings_manager.php:693
+msgid "Search settings"
+msgstr ""
+
+#: classes/settings_manager.php:698
+msgid "Display search block in main part of page?"
+msgstr ""
+
+#: classes/settings_manager.php:699
+msgid ""
+"Note, that search widget is independent from this setting and this widget "
+"renders on each page where main search block was hidden"
+msgstr ""
+
+#: classes/settings_manager.php:705
+msgid "Show \"What search\" section?"
+msgstr ""
+
+#: classes/settings_manager.php:706 classes/settings_manager.php:713
+#: classes/settings_manager.php:720 classes/settings_manager.php:727
+#: classes/settings_manager.php:734 classes/settings_manager.php:747
+#: classes/settings_manager.php:760 classes/settings_manager.php:767
+msgid "This setting is actual for both: main search block and widget"
+msgstr ""
+
+#: classes/settings_manager.php:712
+msgid "Show \"Where search\" section?"
+msgstr ""
+
+#: classes/settings_manager.php:719
+msgid "Show keywords search?"
+msgstr ""
+
+#: classes/settings_manager.php:726
+msgid "Show locations search?"
+msgstr ""
+
+#: classes/settings_manager.php:733
+msgid "Show address search?"
+msgstr ""
+
+#: classes/settings_manager.php:740
+msgid "Show listings counts in locations search dropboxes?"
+msgstr ""
+
+#: classes/settings_manager.php:746
+msgid "Show categories search?"
+msgstr ""
+
+#: classes/settings_manager.php:753
+msgid "Show listings counts in categories search dropboxes?"
+msgstr ""
+
+#: classes/settings_manager.php:759
+msgid "Show locations radius search?"
+msgstr ""
+
+#: classes/settings_manager.php:766
+msgid "Dimension in radius search"
+msgstr ""
+
+#: classes/settings_manager.php:771 templates/search_form.tpl.php:124
+msgid "miles"
+msgstr ""
+
+#: classes/settings_manager.php:775 templates/search_form.tpl.php:124
+msgid "kilometers"
+msgstr ""
+
+#: classes/settings_manager.php:783
+msgid "Minimum radius search"
+msgstr ""
+
+#: classes/settings_manager.php:790
+msgid "Maximum radius search"
+msgstr ""
+
+#: classes/settings_manager.php:797
+msgid "Default radius search"
+msgstr ""
+
+#: classes/settings_manager.php:807
+msgid "Maps & Addresses"
+msgstr ""
+
+#: classes/settings_manager.php:812
+msgid "Maps settings"
+msgstr ""
+
+#: classes/settings_manager.php:817
+msgid "Show map on index page?"
+msgstr ""
+
+#: classes/settings_manager.php:823
+msgid "Show map on excerpt page?"
+msgstr ""
+
+#: classes/settings_manager.php:829
+msgid "Show directions panel for individual listing map?"
+msgstr ""
+
+#: classes/settings_manager.php:835
+msgid "Directions functionality"
+msgstr ""
+
+#: classes/settings_manager.php:839
+msgid "Built-in routing"
+msgstr ""
+
+#: classes/settings_manager.php:843
+msgid "Link to Google Maps"
+msgstr ""
+
+#: classes/settings_manager.php:853
+msgid "Default Google Maps zoom level"
+msgstr ""
+
+#: classes/settings_manager.php:861 vc.php:475
+msgid "Google Maps style"
+msgstr ""
+
+#: classes/settings_manager.php:880
+msgid "Default map height (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:887
+msgid "Show cycle during radius search?"
+msgstr ""
+
+#: classes/settings_manager.php:893
+msgid "Enable clusters of map markers?"
+msgstr ""
+
+#: classes/settings_manager.php:900
+msgid "Addresses settings"
+msgstr ""
+
+#: classes/settings_manager.php:905
+msgid "Default country/state for correct geocoding"
+msgstr ""
+
+#: classes/settings_manager.php:906
+msgid ""
+"This value needed when you build local diirectory, all your listings place "
+"in one local area - country or state. You do not want to set countries or "
+"states in the search, so this hidden string will be automatically added to "
+"the address for correct geocoding when you create/edit listings."
+msgstr ""
+
+#: classes/settings_manager.php:912
+msgid "Order of address lines"
+msgstr ""
+
+#: classes/settings_manager.php:915
+msgid "Address Line 1"
+msgstr ""
+
+#: classes/settings_manager.php:916
+msgid "Address Line 2"
+msgstr ""
+
+#: classes/settings_manager.php:918 classes/settings_manager.php:919
+#: classes/settings_manager.php:920
+msgid "-- Space ( ) --"
+msgstr ""
+
+#: classes/settings_manager.php:921 classes/settings_manager.php:922
+#: classes/settings_manager.php:923
+msgid "-- Comma (,) --"
+msgstr ""
+
+#: classes/settings_manager.php:924 classes/settings_manager.php:925
+msgid "-- Line Break --"
+msgstr ""
+
+#: classes/settings_manager.php:927
+msgid ""
+"Order address elements as you wish, commas and spaces help to build address "
+"line."
+msgstr ""
+
+#: classes/settings_manager.php:933
+msgid "Enable address line 1 field"
+msgstr ""
+
+#: classes/settings_manager.php:939
+msgid "Enable address line 2 field"
+msgstr ""
+
+#: classes/settings_manager.php:945
+msgid "Enable zip code"
+msgstr ""
+
+#: classes/settings_manager.php:951
+msgid "Enable additional info field"
+msgstr ""
+
+#: classes/settings_manager.php:957
+msgid "Enable manual coordinates fields"
+msgstr ""
+
+#: classes/settings_manager.php:964
+msgid "Map markers & InfoWindow settings"
+msgstr ""
+
+#: classes/settings_manager.php:965
+msgid ""
+"Do not touch these settings if you do not know what they mean. Modification "
+"of these settings needed when you use own custom map markers icons with own "
+"sizes."
+msgstr ""
+
+#: classes/settings_manager.php:970
+msgid "Map marker width (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:978
+msgid "Map marker height (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:986
+msgid "Map marker anchor horizontal position (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:994
+msgid "Map marker anchor vertical position (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:1002
+msgid "Map InfoWindow width (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:1011
+msgid "Map InfoWindow vertical position above marker (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:1019
+msgid "Map InfoWindow logo width (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:1031 classes/settings_manager.php:1036
+#: templates/settings_common.tpl.php:16
+msgid "Email notifications"
+msgstr ""
+
+#: classes/settings_manager.php:1041
+msgid "Days before pre-expiration notification will be sent"
+msgstr ""
+
+#: classes/settings_manager.php:1047
+msgid "Pre-expiration notification"
+msgstr ""
+
+#: classes/settings_manager.php:1053 w2dc.php:704 w2dc.php:764
+msgid "Expiration notification"
+msgstr ""
+
+#: classes/settings_manager.php:1062
+msgid "Advanced settings"
+msgstr ""
+
+#: classes/settings_manager.php:1067
+msgid "Google API"
+msgstr ""
+
+#: classes/settings_manager.php:1072
+msgid "Google API key"
+msgstr ""
+
+#: classes/settings_manager.php:1073
+#, php-format
+msgid ""
+"get your Google API key <a href=\"%s\" target=\"_blank\">here</a>, following "
+"APIs must be enabled in the console: Google Maps JavaScript API, Geocoding "
+"API, Static Maps API, Directions API and YouTube Data API for ability to "
+"attach YouTube videos to listings."
+msgstr ""
+
+#: classes/settings_manager.php:1080
+msgid "Google Maps API"
+msgstr ""
+
+#: classes/settings_manager.php:1081 classes/settings_manager.php:1102
+msgid ""
+"Do not touch these settings if you do not know what they mean. It may cause "
+"lots of problems."
+msgstr ""
+
+#: classes/settings_manager.php:1086
+msgid "Do not include Google Maps API at frontend"
+msgstr ""
+
+#: classes/settings_manager.php:1087
+msgid ""
+"Some themes and 3rd party plugins include Google Maps API - this may cause "
+"conflicts and unstable work of maps at the frontend."
+msgstr ""
+
+#: classes/settings_manager.php:1093
+msgid "Do not include Google Maps API at backend"
+msgstr ""
+
+#: classes/settings_manager.php:1094
+msgid ""
+"Some themes and 3rd party plugins include Google Maps API - this may cause "
+"conflicts and unstable work of maps at the backend."
+msgstr ""
+
+#: classes/settings_manager.php:1101
+msgid "JavaScript & CSS"
+msgstr ""
+
+#: classes/settings_manager.php:1107
+msgid "Include lightbox slideshow library?"
+msgstr ""
+
+#: classes/settings_manager.php:1108
+msgid ""
+"Some themes and 3rd party plugins include own Lighbox library - this may "
+"cause conflicts."
+msgstr ""
+
+#: classes/settings_manager.php:1114
+msgid "Do not include jQuery UI CSS"
+msgstr ""
+
+#: classes/settings_manager.php:1115
+msgid ""
+"Some themes and 3rd party plugins include own jQuery UI CSS - this may cause "
+"conflicts in styles."
+msgstr ""
+
+#: classes/settings_manager.php:1122
+msgid "Miscellaneous"
+msgstr ""
+
+#: classes/settings_manager.php:1127
+msgid "Enable autocomplete on addresses fields"
+msgstr ""
+
+#: classes/settings_manager.php:1133
+msgid "Enable \"Get my location\" button on addresses fields"
+msgstr ""
+
+#: classes/settings_manager.php:1140
+msgid "reCaptcha settings"
+msgstr ""
+
+#: classes/settings_manager.php:1145
+msgid "Enable reCaptcha"
+msgstr ""
+
+#: classes/settings_manager.php:1151
+msgid "reCaptcha public key"
+msgstr ""
+
+#: classes/settings_manager.php:1152
+#, php-format
+msgid "get your reCAPTCHA API Keys <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: classes/settings_manager.php:1158
+msgid "reCaptcha private key"
+msgstr ""
+
+#: classes/settings_manager.php:1167
+msgid "Customization"
+msgstr ""
+
+#: classes/settings_manager.php:1172
+msgid "Color palettes"
+msgstr ""
+
+#: classes/settings_manager.php:1177
+msgid "Compare palettes at the frontend"
+msgstr ""
+
+#: classes/settings_manager.php:1178
+msgid ""
+"Do not forget to switch off this setting when comparison will be completed."
+msgstr ""
+
+#: classes/settings_manager.php:1184
+msgid "Color palette"
+msgstr ""
+
+#: classes/settings_manager.php:1186
+#: templates/color_picker/color_picker_settings.tpl.php:41
+msgid "Default"
+msgstr ""
+
+#: classes/settings_manager.php:1187
+#: templates/color_picker/color_picker_settings.tpl.php:53
+msgid "Orange"
+msgstr ""
+
+#: classes/settings_manager.php:1188
+msgid "Red"
+msgstr ""
+
+#: classes/settings_manager.php:1189
+#: templates/color_picker/color_picker_settings.tpl.php:77
+msgid "Yellow"
+msgstr ""
+
+#: classes/settings_manager.php:1190
+#: templates/color_picker/color_picker_settings.tpl.php:89
+msgid "Green"
+msgstr ""
+
+#: classes/settings_manager.php:1191
+#: templates/color_picker/color_picker_settings.tpl.php:101
+msgid "Gray"
+msgstr ""
+
+#: classes/settings_manager.php:1192
+#: templates/color_picker/color_picker_settings.tpl.php:113
+msgid "Blue"
+msgstr ""
+
+#: classes/settings_manager.php:1198
+msgid ""
+"Don't forget to clear cache of your browser after customization changes were "
+"made."
+msgstr ""
+
+#: classes/settings_manager.php:1205
+msgid "Links & buttons"
+msgstr ""
+
+#: classes/settings_manager.php:1210
+msgid "Links color"
+msgstr ""
+
+#: classes/settings_manager.php:1220
+msgid "Links hover color"
+msgstr ""
+
+#: classes/settings_manager.php:1230
+msgid "Button primary color"
+msgstr ""
+
+#: classes/settings_manager.php:1240
+msgid "Button secondary color"
+msgstr ""
+
+#: classes/settings_manager.php:1250
+msgid "Button text color"
+msgstr ""
+
+#: classes/settings_manager.php:1260
+msgid "Use gradient on buttons"
+msgstr ""
+
+#: classes/settings_manager.php:1261
+msgid "This will remove all icons from buttons"
+msgstr ""
+
+#: classes/settings_manager.php:1268
+msgid "Search block"
+msgstr ""
+
+#: classes/settings_manager.php:1273
+msgid "Primary gradient color"
+msgstr ""
+
+#: classes/settings_manager.php:1283
+msgid "Secondary gradient color"
+msgstr ""
+
+#: classes/settings_manager.php:1293
+msgid "Search block text color"
+msgstr ""
+
+#: classes/settings_manager.php:1304
+msgid "Categories block"
+msgstr ""
+
+#: classes/settings_manager.php:1309
+msgid "Primary categories background color"
+msgstr ""
+
+#: classes/settings_manager.php:1319
+msgid "Secondary categories background color"
+msgstr ""
+
+#: classes/settings_manager.php:1329
+msgid "Categories block text color"
+msgstr ""
+
+#: classes/settings_manager.php:1340
+msgid "Locations block"
+msgstr ""
+
+#: classes/settings_manager.php:1345
+msgid "Primary locations background color"
+msgstr ""
+
+#: classes/settings_manager.php:1355
+msgid "Secondary locations background color"
+msgstr ""
+
+#: classes/settings_manager.php:1365
+msgid "Locations block text color"
+msgstr ""
+
+#: classes/settings_manager.php:1376
+msgid "Misc settings"
+msgstr ""
+
+#: classes/settings_manager.php:1381
+msgid "Primary color"
+msgstr ""
+
+#: classes/settings_manager.php:1382
+msgid ""
+"The color of categories, tags labels, map info window caption, pagination "
+"elements"
+msgstr ""
+
+#: classes/settings_manager.php:1392
+msgid "Featured listing highlight color"
+msgstr ""
+
+#: classes/settings_manager.php:1402
+msgid "Thumbnail animation hover effect on excerpt pages"
+msgstr ""
+
+#: classes/settings_manager.php:1406 vc.php:355
+msgid "No effect"
+msgstr ""
+
+#: classes/settings_manager.php:1410 classes/settings_manager.php:1414
+#: classes/settings_manager.php:1418 classes/settings_manager.php:1422
+#: classes/settings_manager.php:1426 classes/settings_manager.php:1430
+#: vc.php:356 vc.php:357 vc.php:358 vc.php:359 vc.php:360 vc.php:361
+#, php-format
+msgid "Animation effect #%d"
+msgstr ""
+
+#: classes/settings_manager.php:1438
+msgid "Bottom margin between listings (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:1446
+msgid "Listing title font size (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:1454
+msgid "jQuery UI Style"
+msgstr ""
+
+#: classes/settings_manager.php:1455
+msgid "Controls the color of calendar and slider UI widgets"
+msgstr ""
+
+#: classes/settings_manager.php:1530
+msgid "Social Sharing"
+msgstr ""
+
+#: classes/settings_manager.php:1535
+msgid "Listings Social Sharing Buttons"
+msgstr ""
+
+#: classes/settings_manager.php:1540
+msgid "Buttons style"
+msgstr ""
+
+#: classes/settings_manager.php:1544
+msgid "Arbenta"
+msgstr ""
+
+#: classes/settings_manager.php:1549
+msgid "Flat"
+msgstr ""
+
+#: classes/settings_manager.php:1554
+msgid "Somacro"
+msgstr ""
+
+#: classes/settings_manager.php:1563
+msgid "Include and order buttons"
+msgstr ""
+
+#: classes/settings_manager.php:1570
+msgid "Enable counter"
+msgstr ""
+
+#: classes/settings_manager.php:1576
+msgid "Buttons place"
+msgstr ""
+
+#: classes/settings_manager.php:1580
+msgid "After title"
+msgstr ""
+
+#: classes/settings_manager.php:1584
+msgid "Before text content"
+msgstr ""
+
+#: classes/settings_manager.php:1588
+msgid "After text content"
+msgstr ""
+
+#: classes/settings_manager.php:1598
+msgid "Social buttons width (in pixels)"
+msgstr ""
+
+#: classes/settings_manager.php:1614 classes/settings_manager.php:1615
+#: templates/admin_index.tpl.php:23 templates/settings_common.tpl.php:5
+msgid "Directory settings"
+msgstr ""
+
+#: classes/settings_manager.php:1623
+msgid "WPML Settings"
+msgstr ""
+
+#: classes/settings_manager.php:1712
+#, php-format
+msgid "%s This is multilingual option, each language may have own value."
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:101
+#: classes/shortcodes/directory_controller.php:193
+#: classes/shortcodes/directory_controller.php:256
+#: classes/shortcodes/directory_controller.php:334
+#: classes/shortcodes/directory_controller.php:408
+#: classes/shortcodes/directory_controller.php:446
+msgid "Home"
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:187
+#: classes/shortcodes/directory_controller.php:194
+msgid "Search results"
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:409 functions.php:248
+#, php-format
+msgid "View all listings in %s"
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:442
+#: classes/shortcodes/directory_controller.php:447
+#: templates/frontend/frontpanel_buttons.tpl.php:6
+msgid "My bookmarks"
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:598
+msgid "Contact name"
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:599
+msgid "Contact email"
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:601
+#: templates/frontend/contact_form.tpl.php:21
+msgid "Your message"
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:626
+#, php-format
+msgid "%s contacted you about your listing \"%s\""
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:641
+msgid "You message was sent successfully!"
+msgstr ""
+
+#: classes/shortcodes/directory_controller.php:643
+msgid "An error occurred and your message wasn't sent!"
+msgstr ""
+
+#: classes/widgets.php:13
+msgid "W2DC - Search"
+msgstr ""
+
+#: classes/widgets.php:14
+msgid "Search Form"
+msgstr ""
+
+#: classes/widgets.php:40 w2dc.php:601
+msgid "Search listings"
+msgstr ""
+
+#: classes/widgets.php:95
+msgid "W2DC - Categories"
+msgstr ""
+
+#: classes/widgets.php:96 classes/widgets.php:121
+msgid "Categories list"
+msgstr ""
+
+#: classes/widgets.php:180
+msgid "W2DC - Locations"
+msgstr ""
+
+#: classes/widgets.php:181 classes/widgets.php:206
+msgid "Locations list"
+msgstr ""
+
+#: classes/widgets.php:266
+msgid "W2DC - Listings"
+msgstr ""
+
+#: classes/widgets.php:386
+msgid "W2DC - Social"
+msgstr ""
+
+#: classes/widgets.php:387
+msgid "Social services"
+msgstr ""
+
+#: classes/widgets.php:406
+msgid "Social accounts"
+msgstr ""
+
+#: functions_ui.php:53 functions_ui.php:78
+msgid "Select term"
+msgstr ""
+
+#: functions_ui.php:127 templates/levels/add_edit_level.tpl.php:329 vc.php:31
+#: vc.php:53
+msgid "- Select All -"
+msgstr ""
+
+#: functions_ui.php:181 functions_ui.php:227
+msgid "Date"
+msgstr ""
+
+#: functions_ui.php:221 templates/frontend/listings_block.tpl.php:22
+msgid "Order by: "
+msgstr ""
+
+#: functions_ui.php:227
+msgid "Random"
+msgstr ""
+
+#: functions_ui.php:466
+msgid "View all subcategories ->"
+msgstr ""
+
+#: functions_ui.php:601
+msgid "View all sublocations ->"
+msgstr ""
+
+#: functions_ui.php:639
+msgid "Password"
+msgstr ""
+
+#: functions_ui.php:640
+msgid "Remember Me"
+msgstr ""
+
+#: functions_ui.php:641
+msgid "Log In"
+msgstr ""
+
+#: functions_ui.php:678
+msgid "Register"
+msgstr ""
+
+#: functions_ui.php:680
+msgid "Password Lost and Found"
+msgstr ""
+
+#: functions_ui.php:680
+msgid "Lost your password?"
+msgstr ""
+
+#: functions_ui.php:713
+msgid "Previous Line"
+msgstr ""
+
+#: functions_ui.php:716
+msgid "Previous Page"
+msgstr ""
+
+#: functions_ui.php:729
+msgid "Next Page"
+msgstr ""
+
+#: functions_ui.php:732
+msgid "Next Line"
+msgstr ""
+
+#: functions_ui.php:737
+msgid "Show More Listings"
+msgstr ""
+
+#: functions_ui.php:883
+#, php-format
+msgid "Share on %s"
+msgstr ""
+
+#: templates/admin_index.tpl.php:5
+msgid "Web 2.0 Directory plugin"
+msgstr ""
+
+#: templates/admin_index.tpl.php:15
+msgid "View all listings"
+msgstr ""
+
+#: templates/admin_index.tpl.php:18
+msgid ""
+"<b>Manage your directory listings.</b> You may manage any listings, "
+"comments, attached images and videos. According to listings levels settings "
+"some items may be raised up, expired items may be renewed manually."
+msgstr ""
+
+#: templates/admin_index.tpl.php:26
+msgid ""
+"<b>Manage main directory settings.</b> Configure general settings, listings, "
+"maps, directory pages, listings views, email notifications, search form and "
+"much more."
+msgstr ""
+
+#: templates/admin_index.tpl.php:34
+msgid ""
+"Levels of listings control the functionality amount of listings and their "
+"<b>directory/classifieds conception</b>. Each listing may belong to "
+"different levels, some may have eternal active period, have sticky status "
+"and enabled google maps, other may have greater number of allowed attached "
+"images or videos."
+msgstr ""
+
+#: templates/admin_index.tpl.php:39 w2dc.php:639
+msgid "Directory locations"
+msgstr ""
+
+#: templates/admin_index.tpl.php:42
+msgid ""
+"<b>Manage directory locations.</b> Fill in locations tree with countries, "
+"states, cities."
+msgstr ""
+
+#: templates/admin_index.tpl.php:50
+msgid ""
+"By default there are 3 locations levels: country, state and city. Remove "
+"existed or set up new locations levels."
+msgstr ""
+
+#: templates/admin_index.tpl.php:58
+msgid ""
+"Set up content fields for listings. Each field has type that defines its "
+"behaviour. You may hide field name, select custom field icon, set field as "
+"required, manage visibility on pages. Also listings may be ordered by some "
+"fields. Note that you may <b>assign fields for specific categories</b>."
+msgstr ""
+
+#: templates/admin_index.tpl.php:63 w2dc.php:623
+msgid "Directory categories"
+msgstr ""
+
+#: templates/admin_index.tpl.php:66
+msgid "Manage directory categories."
+msgstr ""
+
+#: templates/admin_index.tpl.php:71 w2dc.php:655
+msgid "Directory tags"
+msgstr ""
+
+#: templates/admin_index.tpl.php:74
+msgid "Manage directory tags."
+msgstr ""
+
+#: templates/categories/select_icon_form.tpl.php:5
+msgid "Associate an icon to this category"
+msgstr ""
+
+#: templates/categories/select_icon_link.tpl.php:5
+#: templates/locations/select_icon_link.tpl.php:5
+msgid "Select icon"
+msgstr ""
+
+#: templates/categories/select_icons_dialog.tpl.php:1
+#: templates/content_fields/select_icons.tpl.php:1
+#: templates/locations/select_icons.tpl.php:1
+#: templates/locations/select_icons_dialog.tpl.php:1
+msgid "Reset icon image"
+msgstr ""
+
+#: templates/color_picker/color_picker_panel.tpl.php:26
+#: templates/color_picker/color_picker_panel_rtl.tpl.php:26
+msgid "Choose color palette:"
+msgstr ""
+
+#: templates/color_picker/color_picker_panel.tpl.php:29
+#: templates/color_picker/color_picker_panel_rtl.tpl.php:29
+#, php-format
+msgid "Return to the <a href=\"%s\">backend</a>"
+msgstr ""
+
+#: templates/color_picker/color_picker_settings.tpl.php:65
+msgid "Red-Blue"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:7
+msgid "Edit content field"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:9
+msgid "Create new content field"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:13
+msgid ""
+"You can't select assigned categories for core fields such as content, "
+"excerpt, categories, tags and addresses"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:76
+msgid "Select content field icon"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:126
+msgid "Field name"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:140
+msgid "Field slug"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:162
+msgid "Hide field name at the frontend?"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:167
+msgid "Field description"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:184
+msgid "Select field icon"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:195
+msgid "- Select field type -"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:216
+msgid "You can't change the type of core fields"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:223
+msgid "Is this field required?"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:243
+msgid "Is it possible to order listings by this field?"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:316
+msgid "Search by this field?"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:329
+msgid "On advanced search panel?"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:361
+msgid "Create content field"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:7
+msgid "Edit content fields group"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:9
+msgid "Create new content fields group"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:19
+msgid "Fields Group name"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:40
+msgid "Place this group on separate tab on single listings pages"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:45
+msgid "Hide from anonymous users"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:53
+msgid "This group of fields will be shown only for registered users"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_fields_group.tpl.php:63
+msgid "Create content fields group"
+msgstr ""
+
+#: templates/content_fields/content_fields_metabox.tpl.php:45
+msgid "Content fields may be dependent on selected categories"
+msgstr ""
+
+#: templates/content_fields/content_fields_table.tpl.php:28
+msgid "Create new field"
+msgstr ""
+
+#: templates/content_fields/content_fields_table.tpl.php:30
+msgid "You may order content fields by drag & drop."
+msgstr ""
+
+#: templates/content_fields/content_fields_table.tpl.php:43
+msgid "Content fields groups"
+msgstr ""
+
+#: templates/content_fields/content_fields_table.tpl.php:44
+msgid "Create new fields group"
+msgstr ""
+
+#: templates/content_fields/fields/datetime_configuration.tpl.php:5
+msgid "Configure date-time field"
+msgstr ""
+
+#: templates/content_fields/fields/datetime_input.tpl.php:41
+#: templates/search_fields/fields/datetime_input.tpl.php:73
+#: templates/search_fields/fields/datetime_input.tpl.php:85
+#: templates/search_fields/fields/datetime_input_vc_max.tpl.php:33
+#: templates/search_fields/fields/datetime_input_vc_min.tpl.php:33
+msgid "reset date"
+msgstr ""
+
+#: templates/content_fields/fields/datetime_input.tpl.php:46
+#: templates/listings/change_date.tpl.php:40
+#: templates/listings/change_date_metabox.tpl.php:37
+msgid "Time:"
+msgstr ""
+
+#: templates/content_fields/fields/hours_configuration.tpl.php:5
+msgid "Configure opening hours field"
+msgstr ""
+
+#: templates/content_fields/fields/hours_configuration.tpl.php:23
+msgid "12-hour clock"
+msgstr ""
+
+#: templates/content_fields/fields/hours_configuration.tpl.php:32
+msgid "24-hour clock"
+msgstr ""
+
+#: templates/content_fields/fields/hours_input.tpl.php:19
+msgid "Reset hours & minutes"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:5
+msgid "Configure number field"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:22
+msgid "integer"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:29
+msgid "decimal"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:66
+#: templates/content_fields/fields/number_configuration.tpl.php:79
+msgid "leave empty if you do not need to limit this field"
+msgstr ""
+
+#: templates/content_fields/fields/price_configuration.tpl.php:5
+msgid "Configure price field"
+msgstr ""
+
+#: templates/content_fields/fields/select_configuration.tpl.php:5
+msgid "Configure select/radio buttons/checkboxes field"
+msgstr ""
+
+#: templates/content_fields/fields/select_configuration.tpl.php:13
+#: templates/content_fields/fields/select_configuration.tpl.php:39
+#: templates/content_fields/fields/select_configuration.tpl.php:49
+msgid "Remove selection item"
+msgstr ""
+
+#: templates/content_fields/fields/select_configuration.tpl.php:27
+msgid "Selection items:"
+msgstr ""
+
+#: templates/content_fields/fields/select_configuration.tpl.php:57
+msgid "Add selection item"
+msgstr ""
+
+#: templates/content_fields/fields/select_input.tpl.php:6
+#: templates/search_fields/fields/select_checkbox_radio_input.tpl.php:35
+#, php-format
+msgid "- Select %s -"
+msgstr ""
+
+#: templates/content_fields/fields/string_configuration.tpl.php:5
+msgid "Configure text string field"
+msgstr ""
+
+#: templates/content_fields/fields/textarea_configuration.tpl.php:5
+msgid "Configure textarea field"
+msgstr ""
+
+#: templates/content_fields/fields/textarea_configuration.tpl.php:38
+msgid "Run shortcodes"
+msgstr ""
+
+#: templates/content_fields/fields/website_configuration.tpl.php:5
+msgid "Configure website field"
+msgstr ""
+
+#: templates/content_fields/fields/website_configuration.tpl.php:40
+msgid "Enable link text field"
+msgstr ""
+
+#: templates/content_fields/fields/website_configuration.tpl.php:65
+msgid "Use default link text when empty"
+msgstr ""
+
+#: templates/content_fields/fields/website_configuration.tpl.php:74
+msgid "In other case the URL will be displayed as link text"
+msgstr ""
+
+#: templates/content_fields/fields/website_input.tpl.php:6
+msgid "URL:"
+msgstr ""
+
+#: templates/content_fields/fields/website_input.tpl.php:11
+msgid "Link text:"
+msgstr ""
+
+#: templates/content_fields/fields_group_output.tpl.php:10
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to see this info"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:6
+msgid ""
+"On this second step collate CSV headers of columns with existing listings "
+"fields"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:17
+msgid "Collate CSV columns"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:27
+msgid "- Select listings field -"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:38
+#: templates/csv_manager/import_settings.tpl.php:12
+msgid "Import settings"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:43
+msgid "What to do when category/tag was not found"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:52
+msgid "Create new category/tag"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:62
+msgid "Do not do anything"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:71
+msgid "As defined in CSV column"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:80
+msgid "Geocode imported listings by address parts"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:109
+#: vafpress-framework/views/option/impexp.php:4
+#: vafpress-framework/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: templates/csv_manager/collate_columns.tpl.php:111
+msgid "Test import"
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:1
+msgid "Import instructions:"
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:2
+msgid ""
+"On the second step of importing you'll collate CSV headers of columns with "
+"existing listings fields, this means there isn't fixed format for CSV files."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:3
+msgid ""
+"The only required columns in CSV file, those will define new listings titles "
+"and level IDs. Also information about author must be provided - in any "
+"column of CSV file or by setting default author in settings."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:4
+msgid ""
+"In order to assign categories/tags with each listing - specify category/tag "
+"slugs in one CSV column and separate them with special delimiter. This "
+"delimiter must be any string character, but not the same as the delimiter "
+"for separation of CSV columns."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:5
+msgid ""
+"You may set to auto-create new directory category/tag. In such case, when "
+"there isn't any existing category/tag with provided slug - new root category/"
+"tag will be created automatically and that string in the CSV column will be "
+"used as category/tag name."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:6
+msgid ""
+"MultiValues - are such fields, those may have more than one value, for "
+"example, checkboxes content field. Separate them in one CSV column with "
+"special delimiter in the same way as for assigned categories."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:7
+msgid ""
+"Also you may upload ZIP archive with images files for new listings. Specify "
+"names of images files in one CSV column and separate them with special "
+"delimiter in the same way as for assigned categories. Note, that images "
+"files must be in the root inside ZIP archive, not inside folder."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:8
+msgid ""
+"By default listings authors will be specified in one of CSV columns, there "
+"must be existed user ID, user login or user email. Also you may switch to "
+"assign all new listings with one specific existed user."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:9
+msgid ""
+"2 possible ways to import addresses and locations for new listings: define "
+"already existed directory location ID or you may select up to 4 address "
+"parts in different CSV columns (e.g., building number in one column, street "
+"in another column, city in separate column, ......). Also you may set "
+"special column for names of existed map icons files: for example, there is "
+"such map marker icon file \"<em>w2dc/resources/images/map_icons/icons/_new/"
+"Boat.png</em>\", so you have to place \"<em>_new/Boat.png</em>\" into CSV "
+"column."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:10
+msgid ""
+"When you do not have latitude/longitude information for Google Maps markers "
+"- Google geocoding service may be used to build markers points from "
+"addresses (CURL extention required), but you can only import maximum of 2500 "
+"addresses per day, this is the max query limit of the Google geocoding "
+"service, unless you have a Google Maps API business license."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:11
+msgid ""
+"There is an option to configure all imported listings as claimable, this "
+"option is shown when frontend submission addon was enabled and also claim "
+"functionality was switched on."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:12
+msgid ""
+"When the size of your CSV file is very large - this may slow down the server "
+"and break the process of import, you may try to split the file into smaller "
+"CSV files."
+msgstr ""
+
+#: templates/csv_manager/import_instructions.tpl.php:13
+msgid "Recommended to make whole backup of the database before import."
+msgstr ""
+
+#: templates/csv_manager/import_results.tpl.php:6
+msgid "Import results"
+msgstr ""
+
+#: templates/csv_manager/import_results.tpl.php:43
+msgid "Go back"
+msgstr ""
+
+#: templates/csv_manager/import_results.tpl.php:47
+msgid "Import new file"
+msgstr ""
+
+#: templates/csv_manager/import_settings.tpl.php:6
+msgid ""
+"On this first step select CSV file for import, also you may import images in "
+"zip archive"
+msgstr ""
+
+#: templates/csv_manager/import_settings.tpl.php:17
+msgid "CSV File"
+msgstr ""
+
+#: templates/csv_manager/import_settings.tpl.php:27
+msgid "Images ZIP archive"
+msgstr ""
+
+#: templates/csv_manager/import_settings.tpl.php:61
+msgid "Categories/Tags/MultiValues separator"
+msgstr ""
+
+#: templates/csv_manager/import_settings.tpl.php:76
+msgid "Upload"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:1
+msgid "Listing title:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:3
+msgid "Listing URL:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:5
+msgid "Name:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:7
+msgid "Email:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:9
+msgid "Message:"
+msgstr ""
+
+#: templates/frontend/contact_form.tpl.php:4
+msgid "Send message to listing owner"
+msgstr ""
+
+#: templates/frontend/contact_form.tpl.php:8
+#, php-format
+msgid ""
+"You are currently logged in as %s. Your message will be sent using your "
+"logged in name and email."
+msgstr ""
+
+#: templates/frontend/contact_form.tpl.php:27
+msgid "Send"
+msgstr ""
+
+#: templates/frontend/favourites.tpl.php:23
+#: templates/frontend/listings_block.tpl.php:12
+#, php-format
+msgid "Found <span class=\"w2dc-badge\">%d</span> listing"
+msgid_plural "Found <span class=\"w2dc-badge\">%d</span> listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/frontpanel_buttons.tpl.php:11 w2dc.php:598
+msgid "Edit listing"
+msgstr ""
+
+#: templates/frontend/frontpanel_buttons.tpl.php:22
+#: templates/frontend/listing_print.tpl.php:48
+#: templates/frontend/listing_print.tpl.php:119
+msgid "Print listing"
+msgstr ""
+
+#: templates/frontend/frontpanel_buttons.tpl.php:26 w2dc.php:971
+msgid "Remove Bookmark"
+msgstr ""
+
+#: templates/frontend/frontpanel_buttons.tpl.php:26 w2dc.php:970
+msgid "Add Bookmark"
+msgstr ""
+
+#: templates/frontend/frontpanel_buttons.tpl.php:30
+msgid "Save listing in PDF"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:30
+msgid "more info >>"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:37
+msgid "view on map"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:45
+#, php-format
+msgid "%d reply"
+msgid_plural "%d replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/listing.tpl.php:53
+#, php-format
+msgid "%d image"
+msgid_plural "%d images"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/listing.tpl.php:61
+#, php-format
+msgid "%d video"
+msgid_plural "%d videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/listing.tpl.php:69
+msgid "contact us"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:83
+msgid "sticky listing"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:87
+msgid "Remove from favourites list"
+msgstr ""
+
+#: templates/frontend/listing_print.tpl.php:89
+#: templates/frontend/listing_single.tpl.php:110
+msgid "Map"
+msgstr ""
+
+#: templates/frontend/listing_print.tpl.php:94
+msgid "Images"
+msgstr ""
+
+#: templates/frontend/listing_print.tpl.php:106
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/listing_single.tpl.php:113
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/listing_single.tpl.php:116
+msgid "Video"
+msgid_plural "Videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/listing_single.tpl.php:119
+msgid "Contact"
+msgstr ""
+
+#: templates/frontend/listings_block.tpl.php:38
+msgid "List View"
+msgstr ""
+
+#: templates/frontend/listings_block.tpl.php:41
+msgid "Grid View"
+msgstr ""
+
+#: templates/google_map.tpl.php:77
+msgid "Get directions from:"
+msgstr ""
+
+#: templates/google_map.tpl.php:81
+#: templates/locations/locations_in_metabox.tpl.php:22
+#: templates/search_form.tpl.php:80
+msgid "GeoLocation service does not work on your device!"
+msgstr ""
+
+#: templates/google_map.tpl.php:87 templates/google_map.tpl.php:92
+#: templates/search_form.tpl.php:86 templates/search_form.tpl.php:91
+msgid "Enter address or zip code"
+msgstr ""
+
+#: templates/google_map.tpl.php:88
+#: templates/locations/locations_in_metabox.tpl.php:33
+#: templates/search_form.tpl.php:87
+msgid "Get my location"
+msgstr ""
+
+#: templates/google_map.tpl.php:107 templates/google_map.tpl.php:127
+msgid "Get directions"
+msgstr ""
+
+#: templates/google_map.tpl.php:113
+msgid "directions to:"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:7
+msgid "Edit level"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:9
+#: templates/levels/levels_table.tpl.php:28
+msgid "Create new level"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:62
+msgid ""
+"Describe this level's advantages and options as much easier for users as you "
+"can"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:82
+msgid "year(s)"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:98
+msgid "month(s)"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:132
+msgid "day(s)"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:133
+msgid "During this period the listing will have active status"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:159
+msgid "This option may be payment"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:172
+msgid "Listings of this level will be always on top"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:185
+msgid "Listings of this level will be marked as featured"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:190
+msgid "Do listings have own single pages?"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:198
+msgid ""
+"When unchecked - listings info will be shown only on excerpt pages, without "
+"own detailed pages."
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:203
+msgid "Enable nofollow attribute for links to single listings pages"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:211
+msgid "Description from Google Webmaster Tools"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:260
+msgid "Google API key required"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:268
+msgid "Locations number available"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:310
+msgid "unlimited categories"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:318
+msgid ""
+"You may define some special categories, those would be available for this "
+"level"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:327
+msgid ""
+"You may define some special content fields, those would be available for "
+"this level"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:345
+msgid "Create level"
+msgstr ""
+
+#: templates/levels/choose_levels_table.tpl.php:5
+msgid "Choose level for new listing"
+msgstr ""
+
+#: templates/levels/choose_levels_table.tpl.php:9
+#, php-format
+msgid ""
+"Before listings creation you must have at least one listings level, please "
+"create new level <a href=\"%s\">here</a>"
+msgstr ""
+
+#: templates/levels/levels_table.tpl.php:31
+msgid "You may order listings levels by drag & drop rows in the table."
+msgstr ""
+
+#: templates/levels/levels_table.tpl.php:38
+msgid "Save order"
+msgstr ""
+
+#: templates/levels/upgrade_levels_table.tpl.php:28
+msgid "Set prices for listings upgrade according to their levels."
+msgstr ""
+
+#: templates/levels/upgrade_levels_table.tpl.php:47
+#, php-format
+msgid "From %s to %s"
+msgstr ""
+
+#: templates/levels/upgrade_levels_table.tpl.php:50
+msgid "Raise Up after upgrade"
+msgstr ""
+
+#: templates/levels/upgrade_levels_table.tpl.php:51
+#, php-format
+msgid "Disable upgrade from %s to %s level"
+msgstr ""
+
+#: templates/listings/change_date.tpl.php:31
+#: templates/listings/change_date_metabox.tpl.php:26
+msgid ""
+"Set new expiration date and time of the listing.<br />Be careful: If you'll "
+"set past date - listing will expire in some minutes."
+msgstr ""
+
+#: templates/listings/change_date_metabox.tpl.php:31
+msgid "Date:"
+msgstr ""
+
+#: templates/listings/claim_metabox.tpl.php:1
+msgid ""
+"By checking this option you allow registered users to claim this listing."
+msgstr ""
+
+#: templates/listings/claim_metabox.tpl.php:7
+msgid "Allow claim"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:3
+msgid "Listing level"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:21
+msgid "Listing status"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:29
+msgid "unpaid "
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:39
+msgid "Order date"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:51
+msgid "Expiry on"
+msgstr ""
+
+#: templates/listings/upgrade_bulk.tpl.php:8
+msgid ""
+"The level of listings will be changed. You may upgrade or downgrade the "
+"level. If new level has an option of limited active period - expiration date "
+"of listing will be reassigned automatically."
+msgstr ""
+
+#: templates/listings/upgrade_bulk.tpl.php:12
+msgid "Change level of following listings"
+msgstr ""
+
+#: templates/locations/add_edit_locations_level.tpl.php:7
+msgid "Edit locations level"
+msgstr ""
+
+#: templates/locations/add_edit_locations_level.tpl.php:9
+#: templates/locations/locations_levels_table.tpl.php:6
+msgid "Create new locations level"
+msgstr ""
+
+#: templates/locations/add_edit_locations_level.tpl.php:44
+msgid "Render locations of this level in address line"
+msgstr ""
+
+#: templates/locations/add_edit_locations_level.tpl.php:54
+msgid "Create locations level"
+msgstr ""
+
+#: templates/locations/locations_in_metabox.tpl.php:74
+msgid "Enter coordinates manually"
+msgstr ""
+
+#: templates/locations/locations_in_metabox.tpl.php:106
+msgid "Select marker icon"
+msgstr ""
+
+#: templates/locations/locations_in_metabox.tpl.php:117
+msgid "Delete address"
+msgstr ""
+
+#: templates/locations/locations_metabox.tpl.php:16
+msgid "Select map marker icon"
+msgstr ""
+
+#: templates/locations/locations_metabox.tpl.php:121
+msgid "Add address"
+msgstr ""
+
+#: templates/locations/locations_metabox.tpl.php:130
+msgid "Generate on google map"
+msgstr ""
+
+#: templates/locations/select_icon_form.tpl.php:5
+msgid "Associate an icon to this location"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:21
+msgid "Listing images"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:29 templates/media_metabox.tpl.php:71
+#: templates/media_metabox.tpl.php:101
+msgid "remove image"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:36 templates/media_metabox.tpl.php:71
+#: templates/media_metabox.tpl.php:101
+msgid "set this image as logo"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:50
+#, php-format
+msgid "Upload image (%d maximum)"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:93 templates/media_metabox.tpl.php:125
+msgid "Upload image"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:112
+msgid ""
+"Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:145 templates/media_metabox.tpl.php:176
+msgid "remove video"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:151 templates/media_metabox.tpl.php:154
+msgid "Wrong URL or this videos unavailable"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:170
+msgid "Listing videos"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:189
+msgid "Enter full YouTube video link"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:199
+msgid "Attach video"
+msgstr ""
+
+#: templates/search_fields/fields/datetime_input.tpl.php:68
+#: templates/search_fields/fields/datetime_input_vc_min.tpl.php:31
+msgid "Start date"
+msgstr ""
+
+#: templates/search_fields/fields/datetime_input.tpl.php:80
+#: templates/search_fields/fields/datetime_input_vc_max.tpl.php:31
+msgid "End date"
+msgstr ""
+
+#: templates/search_fields/fields/number_input_minmax.tpl.php:11
+#: templates/search_fields/fields/price_input_minmax.tpl.php:10
+msgid "- Select min -"
+msgstr ""
+
+#: templates/search_fields/fields/number_input_minmax.tpl.php:22
+#: templates/search_fields/fields/price_input_minmax.tpl.php:21
+msgid "- Select max -"
+msgstr ""
+
+#: templates/search_fields/fields/number_input_slider.tpl.php:3
+#: templates/search_fields/fields/number_input_slider.tpl.php:6
+#: templates/search_fields/fields/number_input_slider.tpl.php:17
+#: templates/search_fields/fields/number_input_slider.tpl.php:39
+#: templates/search_fields/fields/number_input_slider.tpl.php:49
+#: templates/search_fields/fields/number_input_slider.tpl.php:71
+#: templates/search_fields/fields/price_input_slider.tpl.php:3
+#: templates/search_fields/fields/price_input_slider.tpl.php:6
+#: templates/search_fields/fields/price_input_slider.tpl.php:17
+#: templates/search_fields/fields/price_input_slider.tpl.php:39
+#: templates/search_fields/fields/price_input_slider.tpl.php:49
+#: templates/search_fields/fields/price_input_slider.tpl.php:71
+msgid "min"
+msgstr ""
+
+#: templates/search_fields/fields/number_input_slider.tpl.php:4
+#: templates/search_fields/fields/number_input_slider.tpl.php:7
+#: templates/search_fields/fields/number_input_slider.tpl.php:17
+#: templates/search_fields/fields/number_input_slider.tpl.php:43
+#: templates/search_fields/fields/number_input_slider.tpl.php:56
+#: templates/search_fields/fields/number_input_slider.tpl.php:72
+#: templates/search_fields/fields/price_input_slider.tpl.php:4
+#: templates/search_fields/fields/price_input_slider.tpl.php:7
+#: templates/search_fields/fields/price_input_slider.tpl.php:17
+#: templates/search_fields/fields/price_input_slider.tpl.php:43
+#: templates/search_fields/fields/price_input_slider.tpl.php:56
+#: templates/search_fields/fields/price_input_slider.tpl.php:72
+msgid "max"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:5
+msgid "Configure number/price search field"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:11
+msgid "Remove option"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:34
+msgid "Enter exact number for search"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:43
+msgid "Select Min-Max options for search"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:52
+msgid "Search range slider with steps from Min-Max options"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:61
+msgid "Search range slider with step 1."
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:63
+msgid "From:"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:63
+msgid "To:"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:68
+msgid "Min-Max options:"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:80
+#: templates/search_fields/fields/number_price_configuration.tpl.php:90
+msgid "Remove min-max option"
+msgstr ""
+
+#: templates/search_fields/fields/number_price_configuration.tpl.php:98
+msgid "Add min-max option"
+msgstr ""
+
+#: templates/search_fields/fields/select_checkbox_radio_configuration.tpl.php:5
+msgid "Configure select/checkbox/radio search field"
+msgstr ""
+
+#: templates/search_fields/fields/select_checkbox_radio_configuration.tpl.php:18
+msgid "checkboxes"
+msgstr ""
+
+#: templates/search_fields/fields/select_checkbox_radio_configuration.tpl.php:19
+msgid "selectbox"
+msgstr ""
+
+#: templates/search_fields/fields/select_checkbox_radio_configuration.tpl.php:20
+msgid "radio buttons"
+msgstr ""
+
+#: templates/search_form.tpl.php:33
+msgid "Search for:"
+msgstr ""
+
+#: templates/search_form.tpl.php:44 w2dc.php:624
+msgid "Category"
+msgstr ""
+
+#: templates/search_form.tpl.php:44
+msgid "Subcategory"
+msgstr ""
+
+#: templates/search_form.tpl.php:49
+msgid "Enter keywords"
+msgstr ""
+
+#: templates/search_form.tpl.php:63
+msgid "Search near:"
+msgstr ""
+
+#: templates/search_form.tpl.php:122
+msgid "Search in radius"
+msgstr ""
+
+#: templates/search_form.tpl.php:139 w2dc.php:966
+msgid "Search"
+msgstr ""
+
+#: templates/search_form.tpl.php:163
+msgid "Advanced search"
+msgstr ""
+
+#: templates/settings_common.tpl.php:12
+msgid "General"
+msgstr ""
+
+#: templates/settings_common.tpl.php:14
+msgid "Pages & views"
+msgstr ""
+
+#: templates/settings_common.tpl.php:15
+msgid "Maps"
+msgstr ""
+
+#: templates/settings_common.tpl.php:17
+msgid "Advanced"
+msgstr ""
+
+#: templates/widgets/categories_widget_options.tpl.php:2
+#: templates/widgets/listings_widget_options.tpl.php:2
+#: templates/widgets/locations_widget_options.tpl.php:2
+#: templates/widgets/search_widget_options.tpl.php:2
+#: templates/widgets/social_widget_options.tpl.php:2
+msgid "Title:"
+msgstr ""
+
+#: templates/widgets/categories_widget_options.tpl.php:6
+msgid "Categories nesting level:"
+msgstr ""
+
+#: templates/widgets/categories_widget_options.tpl.php:14
+#: templates/widgets/locations_widget_options.tpl.php:14
+msgid "Show listings counts"
+msgstr ""
+
+#: templates/widgets/categories_widget_options.tpl.php:17
+msgid "Show subcategories items number:"
+msgstr ""
+
+#: templates/widgets/categories_widget_options.tpl.php:22
+msgid "Parent category:"
+msgstr ""
+
+#: templates/widgets/categories_widget_options.tpl.php:24
+msgid "Leave 0 to show all root categories"
+msgstr ""
+
+#: templates/widgets/categories_widget_options.tpl.php:28
+#: templates/widgets/listings_widget_options.tpl.php:19
+#: templates/widgets/locations_widget_options.tpl.php:28
+#: templates/widgets/search_widget_options.tpl.php:11
+#: templates/widgets/social_widget_options.tpl.php:55
+msgid "Show only on directory pages"
+msgstr ""
+
+#: templates/widgets/listings_widget.tpl.php:24
+msgid "ago"
+msgstr ""
+
+#: templates/widgets/listings_widget_options.tpl.php:6
+msgid "Number of listings:"
+msgstr ""
+
+#: templates/widgets/listings_widget_options.tpl.php:11
+msgid "Sticky and featured listings on top"
+msgstr ""
+
+#: templates/widgets/listings_widget_options.tpl.php:15
+msgid "Only sticky and featured listings"
+msgstr ""
+
+#: templates/widgets/locations_widget_options.tpl.php:6
+msgid "Locations nesting level:"
+msgstr ""
+
+#: templates/widgets/locations_widget_options.tpl.php:17
+msgid "Show sublocations items number:"
+msgstr ""
+
+#: templates/widgets/locations_widget_options.tpl.php:22
+msgid "Parent location:"
+msgstr ""
+
+#: templates/widgets/locations_widget_options.tpl.php:24
+msgid "Leave 0 to show all root locations"
+msgstr ""
+
+#: templates/widgets/search_widget_options.tpl.php:7
+msgid "Show only when there is no any other search form on page"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:6
+msgid "Facebook URL:"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:11
+msgid "Show Facebook Button"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:14
+msgid "Twitter URL:"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:19
+msgid "Show Twitter Button"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:22
+msgid "Google URL:"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:27
+msgid "Show Google Button"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:30
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:35
+msgid "Show LinkedIn Button"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:38
+msgid "YouTube URL:"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:43
+msgid "Show YouTube Button"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:46
+msgid "RSS URL:"
+msgstr ""
+
+#: templates/widgets/social_widget_options.tpl.php:51
+msgid "Show RSS Button"
+msgstr ""
+
+#: vafpress-framework/bootstrap.php:88
+#: vafpress-framework/classes/option.php:364
+#: vafpress-framework/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: vafpress-framework/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: vafpress-framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: vafpress-framework/classes/metabox.php:566
+#: vafpress-framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: vafpress-framework/classes/metabox.php:588
+#: vafpress-framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:47
+#: vafpress-framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: vafpress-framework/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:479
+#: vafpress-framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: vafpress-framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: vafpress-framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: vafpress-framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: vafpress-framework/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: vafpress-framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: vafpress-framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: vafpress-framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: vafpress-framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: vafpress-framework/views/option/impexp.php:27
+#: vafpress-framework/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: vafpress-framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: vafpress-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: vafpress-framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: vafpress-framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: vafpress-framework/views/option/set.php:69
+#: vafpress-framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: vafpress-framework/views/option/set.php:70
+#: vafpress-framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: vafpress-framework/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: vc.php:65
+msgid "Main shortcode"
+msgstr ""
+
+#: vc.php:69 vc.php:87 vc.php:165 vc.php:237 vc.php:247 vc.php:417 vc.php:435
+#: vc.php:637 vc.php:707 vc.php:769 vc.php:798 vc.php:917
+msgid "Directory Content"
+msgstr ""
+
+#: vc.php:74 vc.php:92 vc.php:105 vc.php:112 vc.php:118 vc.php:124 vc.php:130
+#: vc.php:136 vc.php:142 vc.php:148 vc.php:154 vc.php:177 vc.php:184 vc.php:190
+#: vc.php:196 vc.php:202 vc.php:208 vc.php:214 vc.php:220 vc.php:226 vc.php:258
+#: vc.php:264 vc.php:278 vc.php:286 vc.php:306 vc.php:313 vc.php:320 vc.php:348
+#: vc.php:440 vc.php:480 vc.php:494 vc.php:502 vc.php:510 vc.php:518 vc.php:526
+#: vc.php:561 vc.php:583 vc.php:590 vc.php:642 vc.php:678 vc.php:712 vc.php:748
+#: vc.php:786 vc.php:834 vc.php:847 vc.php:854
+msgid "No"
+msgstr ""
+
+#: vc.php:74 vc.php:92 vc.php:105 vc.php:112 vc.php:118 vc.php:124 vc.php:130
+#: vc.php:136 vc.php:142 vc.php:148 vc.php:154 vc.php:177 vc.php:184 vc.php:190
+#: vc.php:196 vc.php:202 vc.php:208 vc.php:214 vc.php:220 vc.php:226 vc.php:258
+#: vc.php:264 vc.php:278 vc.php:286 vc.php:306 vc.php:313 vc.php:320 vc.php:348
+#: vc.php:440 vc.php:480 vc.php:494 vc.php:502 vc.php:510 vc.php:518 vc.php:526
+#: vc.php:561 vc.php:583 vc.php:590 vc.php:642 vc.php:678 vc.php:712 vc.php:748
+#: vc.php:786 vc.php:834 vc.php:847 vc.php:854
+msgid "Yes"
+msgstr ""
+
+#: vc.php:75 vc.php:441 vc.php:643 vc.php:713
+msgid "Is it on custom home page?"
+msgstr ""
+
+#: vc.php:82
+msgid "Listings submit"
+msgstr ""
+
+#: vc.php:83
+msgid "Listings submission pages"
+msgstr ""
+
+#: vc.php:93
+msgid "Show submission steps?"
+msgstr ""
+
+#: vc.php:100 vc.php:172
+msgid "Columns number on choose level page"
+msgstr ""
+
+#: vc.php:106 vc.php:178
+msgid "Show negative paratmeters?"
+msgstr ""
+
+#: vc.php:107 vc.php:179
+msgid ""
+"Show parameters those have negation. For example, such row in table will be "
+"shown: Featured Listings - No. In other case it will be completely hidden."
+msgstr ""
+
+#: vc.php:113 vc.php:185
+msgid "Show level active period on choose level page?"
+msgstr ""
+
+#: vc.php:119 vc.php:191
+msgid "Show is level sticky on choose level page?"
+msgstr ""
+
+#: vc.php:125 vc.php:197
+msgid "Show is level featured on choose level page?"
+msgstr ""
+
+#: vc.php:131 vc.php:203
+msgid "Show level's categories number on choose level page?"
+msgstr ""
+
+#: vc.php:137 vc.php:209
+msgid "Show level's locations number on choose level page?"
+msgstr ""
+
+#: vc.php:143 vc.php:215
+msgid "Show is level supports maps on choose level page?"
+msgstr ""
+
+#: vc.php:149 vc.php:221
+msgid "Show level's images number on choose level page?"
+msgstr ""
+
+#: vc.php:155 vc.php:227
+msgid "Show level's videos number on choose level page?"
+msgstr ""
+
+#: vc.php:160
+msgid "Pricing table"
+msgstr ""
+
+#: vc.php:161
+msgid ""
+"Listings levels table. Works in the same way as 1st step on Listings submit, "
+"displays only pricing table. Note, that page with Listings submit element "
+"required."
+msgstr ""
+
+#: vc.php:232
+msgid "Users Dashboard"
+msgstr ""
+
+#: vc.php:233
+msgid "Directory frontend dashboard"
+msgstr ""
+
+#: vc.php:242
+msgid "Directory Listings"
+msgstr ""
+
+#: vc.php:243
+msgid "Directory listings filtered by params"
+msgstr ""
+
+#: vc.php:253 vc.php:447 vc.php:775
+msgid "Enter unique string to connect this shortcode with another elements"
+msgstr ""
+
+#: vc.php:259
+msgid "Show all possible listings on one page?"
+msgstr ""
+
+#: vc.php:265
+msgid "Load listings only after the page was completely loaded."
+msgstr ""
+
+#: vc.php:271
+msgid "Number of listing per page"
+msgstr ""
+
+#: vc.php:272
+msgid ""
+"Number of listings to display per page. Set -1 to display all listings "
+"without paginator."
+msgstr ""
+
+#: vc.php:279
+msgid "Hide paginator"
+msgstr ""
+
+#: vc.php:280
+msgid ""
+"When paginator is hidden - it will display only exact number of listings."
+msgstr ""
+
+#: vc.php:287 vc.php:848
+msgid "Show only sticky or/and featured listings?"
+msgstr ""
+
+#: vc.php:288 vc.php:849
+msgid "Whether to show only sticky or/and featured listings."
+msgstr ""
+
+#: vc.php:294 vc.php:861
+msgid "Order by"
+msgstr ""
+
+#: vc.php:295 vc.php:862
+msgid "Order listings by any of these parameter."
+msgstr ""
+
+#: vc.php:301 vc.php:869
+msgid "Direction of sorting."
+msgstr ""
+
+#: vc.php:307
+msgid "Hide ordering links?"
+msgstr ""
+
+#: vc.php:308
+msgid "Whether to hide ordering navigation links."
+msgstr ""
+
+#: vc.php:314
+msgid "Hide number of listings?"
+msgstr ""
+
+#: vc.php:315
+msgid "Whether to hide number of found listings."
+msgstr ""
+
+#: vc.php:321
+msgid "Show listings views switcher?"
+msgstr ""
+
+#: vc.php:322
+msgid "Whether to show listings views switcher."
+msgstr ""
+
+#: vc.php:327
+msgid "List"
+msgstr ""
+
+#: vc.php:327
+msgid "Grid"
+msgstr ""
+
+#: vc.php:329
+msgid "Do not forget that selected view will be stored in cookies."
+msgstr ""
+
+#: vc.php:342
+msgid "Listing thumbnail logo width in List View"
+msgstr ""
+
+#: vc.php:343
+msgid "in pixels"
+msgstr ""
+
+#: vc.php:364
+msgid "Thumbnail animation hover effect"
+msgstr ""
+
+#: vc.php:369 vc.php:569 vc.php:875
+msgid "Address"
+msgstr ""
+
+#: vc.php:370 vc.php:876
+msgid ""
+"Display listings near this address, recommended to set \"radius\" attribute."
+msgstr ""
+
+#: vc.php:375 vc.php:576 vc.php:881
+msgid "Radius"
+msgstr ""
+
+#: vc.php:376 vc.php:577 vc.php:882
+msgid ""
+"display listings near provided address within this radius in miles or "
+"kilometers."
+msgstr ""
+
+#: vc.php:388 vc.php:605 vc.php:756
+msgid "Locations"
+msgstr ""
+
+#: vc.php:395 vc.php:613 vc.php:687 vc.php:895
+msgid "Categories may be dependent from listings levels."
+msgstr ""
+
+#: vc.php:400 vc.php:619 vc.php:900
+msgid "Exact listings"
+msgstr ""
+
+#: vc.php:401 vc.php:620 vc.php:901
+msgid ""
+"Comma separated string of listings IDs. Possible to display exact listings."
+msgstr ""
+
+#: vc.php:412
+msgid "Single Listing"
+msgstr ""
+
+#: vc.php:413
+msgid "The page with single listing"
+msgstr ""
+
+#: vc.php:422
+msgid "ID of listing"
+msgstr ""
+
+#: vc.php:423
+msgid ""
+"Enter exact ID of listing or leave empty to build custom page for any single "
+"listing."
+msgstr ""
+
+#: vc.php:430
+msgid "Directory Map"
+msgstr ""
+
+#: vc.php:431
+msgid "Directory map and markers"
+msgstr ""
+
+#: vc.php:454
+msgid "Number of markers"
+msgstr ""
+
+#: vc.php:455
+msgid ""
+"Number of markers to display on map (default \"-1″ – this means unlimited)."
+msgstr ""
+
+#: vc.php:461
+msgid "Width"
+msgstr ""
+
+#: vc.php:462
+msgid ""
+"Set map width in pixels. With empty field the map will take all possible "
+"width."
+msgstr ""
+
+#: vc.php:468
+msgid "Height"
+msgstr ""
+
+#: vc.php:469
+msgid "Set map height in pixels, also possible to set 100% value."
+msgstr ""
+
+#: vc.php:481
+msgid "Make map to be sticky on scroll"
+msgstr ""
+
+#: vc.php:487
+msgid "Sticky scroll top padding"
+msgstr ""
+
+#: vc.php:488
+msgid "Top padding in pixels."
+msgstr ""
+
+#: vc.php:495
+msgid "Show summary button?"
+msgstr ""
+
+#: vc.php:496
+msgid "Show \"« Summary\" button in info window."
+msgstr ""
+
+#: vc.php:503
+msgid "Show readmore button?"
+msgstr ""
+
+#: vc.php:504
+msgid "Show \"Read more »\" button in info window."
+msgstr ""
+
+#: vc.php:511
+msgid "GeoLocation"
+msgstr ""
+
+#: vc.php:512
+msgid "Enable automatic geolocation."
+msgstr ""
+
+#: vc.php:520
+msgid ""
+"When map contains lots of markers - this may slow down map markers loading. "
+"Select AJAX to speed up loading. Requires Starting Address or Starting Point "
+"coordinates Latitude and Longitude."
+msgstr ""
+
+#: vc.php:527
+msgid "Maps info window AJAX loading"
+msgstr ""
+
+#: vc.php:528
+msgid "This may additionaly speed up loading."
+msgstr ""
+
+#: vc.php:534
+msgid "Starting Address"
+msgstr ""
+
+#: vc.php:535
+msgid ""
+"When map markers load by AJAX - it should have starting point and starting "
+"zoom. Enter start address or select latitude and longitude. Example: 1600 "
+"Amphitheatre Pkwy, Mountain View, CA 94043, USA"
+msgstr ""
+
+#: vc.php:541
+msgid "Starting Point Latitude"
+msgstr ""
+
+#: vc.php:547
+msgid "Starting Point Longitude"
+msgstr ""
+
+#: vc.php:553
+msgid "Starting Point Zoom"
+msgstr ""
+
+#: vc.php:562
+msgid "Show markers only of sticky or/and featured listings?"
+msgstr ""
+
+#: vc.php:563
+msgid "Whether to show markers only of sticky or/and featured listings."
+msgstr ""
+
+#: vc.php:570
+msgid ""
+"Display markers near this address, recommended to set \"radius\" attribute."
+msgstr ""
+
+#: vc.php:584
+msgid "Show radius cycle?"
+msgstr ""
+
+#: vc.php:585
+msgid "Display radius cycle on map when radius filter provided."
+msgstr ""
+
+#: vc.php:591
+msgid "Group map markers in clusters?"
+msgstr ""
+
+#: vc.php:632
+msgid "Categories List"
+msgstr ""
+
+#: vc.php:633
+msgid "Directory categories list"
+msgstr ""
+
+#: vc.php:649
+msgid "Parent category"
+msgstr ""
+
+#: vc.php:650
+msgid ""
+"ID of parent category (default 0 – this will build whole categories tree "
+"starting from the root)."
+msgstr ""
+
+#: vc.php:658
+msgid ""
+"The max depth of categories tree. When set to 1 – only root categories will "
+"be listed."
+msgstr ""
+
+#: vc.php:665
+msgid ""
+"This is the number of subcategories those will be displayed in the table, "
+"when category item includes more than this number \"View all subcategories ->"
+"\" link appears at the bottom."
+msgstr ""
+
+#: vc.php:673
+msgid "Categories list is divided by columns."
+msgstr ""
+
+#: vc.php:680
+msgid ""
+"Whether to show number of listings assigned with current category in "
+"brackets."
+msgstr ""
+
+#: vc.php:695
+msgid ""
+"Comma separated string of categories slugs or IDs. Possible to display exact "
+"categories."
+msgstr ""
+
+#: vc.php:702
+msgid "Locations List"
+msgstr ""
+
+#: vc.php:703
+msgid "Directory locations list"
+msgstr ""
+
+#: vc.php:719
+msgid "Parent location"
+msgstr ""
+
+#: vc.php:720
+msgid ""
+"ID of parent location (default 0 – this will build whole locations tree "
+"starting from the root)."
+msgstr ""
+
+#: vc.php:728
+msgid ""
+"The max depth of locations tree. When set to 1 – only root locations will be "
+"listed."
+msgstr ""
+
+#: vc.php:735
+msgid ""
+"This is the number of sublocations those will be displayed in the table, "
+"when location item includes more than this number \"View all sublocations ->"
+"\" link appears at the bottom."
+msgstr ""
+
+#: vc.php:743
+msgid "Locations list is divided by columns."
+msgstr ""
+
+#: vc.php:750
+msgid ""
+"Whether to show number of listings assigned with current location in "
+"brackets."
+msgstr ""
+
+#: vc.php:757
+msgid ""
+"Comma separated string of locations slugs or IDs. Possible to display exact "
+"locations."
+msgstr ""
+
+#: vc.php:764
+msgid "Search form"
+msgstr ""
+
+#: vc.php:765
+msgid "Directory listings search form"
+msgstr ""
+
+#: vc.php:781
+msgid "Number of columns to arrange search fields"
+msgstr ""
+
+#: vc.php:787
+msgid "Advanced search panel always open"
+msgstr ""
+
+#: vc.php:793
+msgid "Listings slider"
+msgstr ""
+
+#: vc.php:794
+msgid "Directory listings in slider view"
+msgstr ""
+
+#: vc.php:804
+msgid "Maximum number of slides"
+msgstr ""
+
+#: vc.php:809
+msgid "Maximum width of slider in pixels"
+msgstr ""
+
+#: vc.php:810
+msgid "Leave empty to make it auto width."
+msgstr ""
+
+#: vc.php:816
+msgid "Height of slider in pixels"
+msgstr ""
+
+#: vc.php:822
+msgid "Maximum width of one slide in pixels"
+msgstr ""
+
+#: vc.php:828
+msgid "Maximum number of slides to be shown in carousel"
+msgstr ""
+
+#: vc.php:829
+msgid ""
+"Slides will be sized up if carousel becomes larger than the original size."
+msgstr ""
+
+#: vc.php:835
+msgid "Enable automatic rotating slideshow"
+msgstr ""
+
+#: vc.php:855
+msgid "Order listings randomly?"
+msgstr ""
+
+#: vc.php:912
+msgid "Front buttons"
+msgstr ""
+
+#: vc.php:913
+msgid "Submit listing, my bookmarks, edit listing, print listing, ...."
+msgstr ""
+
+#: vc.php:925
+msgid "Directory custom homepage 1"
+msgstr ""
+
+#: vc.php:933
+msgid "Directory custom homepage 2"
+msgstr ""
+
+#: vc.php:941
+msgid "Directory custom homepage 3"
+msgstr ""
+
+#: w2dc.php:365
+#, php-format
+msgid ""
+"<b>Web 2.0 Directory plugin</b>: sorry, but there isn't any page with "
+"[webdirectory] shortcode. Create <a href=\"%s\">this special page</a> for "
+"you?"
+msgstr ""
+
+#: w2dc.php:594 w2dc.php:606
+msgid "Directory listings"
+msgstr ""
+
+#: w2dc.php:595
+msgid "Directory listing"
+msgstr ""
+
+#: w2dc.php:596 w2dc.php:597
+msgid "Create new listing"
+msgstr ""
+
+#: w2dc.php:599
+msgid "New listing"
+msgstr ""
+
+#: w2dc.php:600
+msgid "View listing"
+msgstr ""
+
+#: w2dc.php:602
+msgid "No listings found"
+msgstr ""
+
+#: w2dc.php:603
+msgid "No listings found in trash"
+msgstr ""
+
+#: w2dc.php:625
+msgid "Create category"
+msgstr ""
+
+#: w2dc.php:626
+msgid "New category"
+msgstr ""
+
+#: w2dc.php:627
+msgid "Edit category"
+msgstr ""
+
+#: w2dc.php:628
+msgid "View category"
+msgstr ""
+
+#: w2dc.php:629
+msgid "Update category"
+msgstr ""
+
+#: w2dc.php:630
+msgid "Search categories"
+msgstr ""
+
+#: w2dc.php:640
+msgid "Location"
+msgstr ""
+
+#: w2dc.php:641
+msgid "Create location"
+msgstr ""
+
+#: w2dc.php:642
+msgid "New location"
+msgstr ""
+
+#: w2dc.php:643
+msgid "Edit location"
+msgstr ""
+
+#: w2dc.php:644
+msgid "View location"
+msgstr ""
+
+#: w2dc.php:645
+msgid "Update location"
+msgstr ""
+
+#: w2dc.php:646
+msgid "Search locations"
+msgstr ""
+
+#: w2dc.php:656
+msgid "Tag"
+msgstr ""
+
+#: w2dc.php:657
+msgid "Create tag"
+msgstr ""
+
+#: w2dc.php:658
+msgid "New tag"
+msgstr ""
+
+#: w2dc.php:659
+msgid "Edit tag"
+msgstr ""
+
+#: w2dc.php:660
+msgid "View tag"
+msgstr ""
+
+#: w2dc.php:661
+msgid "Update tag"
+msgstr ""
+
+#: w2dc.php:662
+msgid "Search tags"
+msgstr ""
+
+#: w2dc.php:965
+msgid "Loading..."
+msgstr ""
+
+#: w2dc.php:998
+msgid "Read more »"
+msgstr ""
+
+#: w2dc.php:999
+msgid "« Summary"
+msgstr ""
